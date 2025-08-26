@@ -14,7 +14,7 @@
 | Apellidos y Nombres              | Código de Alumno |
 |----------------------------------|------------------|
 | Lang Nassi, Werner Khalil        | U202310003       |
-| Taipe Sangama, Jorge Francisco   |        |
+| Taipe Sangama, Jorge Francisco   | U202313458       |
 | Saúl, Ortega Muñoz               |        |
 | Armestar Heredia, Matias Gabriel |        |
 |                                  |        |
