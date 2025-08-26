@@ -4,8 +4,8 @@
 
 ## Carrera: Ingeniería de Software
 ## Aplicaciones Web
-## PROFESOR: 
-## NRC: 
+## PROFESOR: Naldo Reupo-Musayon Gastulo
+## NRC: 7426
 ## INFORME TB1
 ## START UP: WASwarm
 ## PRODUCTO: 
