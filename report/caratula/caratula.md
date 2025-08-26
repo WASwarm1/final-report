@@ -23,9 +23,9 @@ Ciclo: 2025-20
 
 # Registro de versiones del informe
 
-| Versión | Fecha       | Autor                     |  Descripción de la modification            |
-|---------|-------------|---------------------------|--------------------------------------------|
-| 0.1     | 2024-06-01  | Lang Nassi, Werner Khalil | Creación del documento y estructura inicial|
+| Versión | Fecha      | Autor                     |  Descripción de la modification            |
+|---------|------------|---------------------------|--------------------------------------------|
+| 0.1     | 2025-08-25 | Lang Nassi, Werner Khalil | Creación del documento y estructura inicial|
 
 # Project Report Collaboration Insights
 #### Repositorio del informe del proyecto 
