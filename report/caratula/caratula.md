@@ -4,7 +4,7 @@
 
 ## Carrera: Ingeniería de Software
 ## Aplicaciones Web
-## PROFESOR: 
+## PROFESOR: Naldo Reupo-Musayon Gastulo
 ## NRC: 
 ## INFORME TB1
 ## START UP: WASwarm
@@ -14,7 +14,7 @@
 | Apellidos y Nombres              | Código de Alumno |
 |----------------------------------|------------------|
 | Lang Nassi, Werner Khalil        | U202310003       |
-| Taipe Sangama, Jorge Francisco   |        |
+| Taipe Sangama, Jorge Francisco   | U202313458       |
 | Saúl, Ortega Muñoz               |        |
 | Armestar Heredia, Matias Gabriel |        |
 |                                  |        |
