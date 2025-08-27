@@ -4,6 +4,23 @@
 
 ### 2.1.1. Análisis competitivo.
 
+| **Categoría** | **Aspecto** | **1** | **C1** | **C2** | **C3** |
+|---------------|-------------|-------|--------|------------------|------------------|
+| **Perfil** | **Overview**  |       |        | | |
+| | **Ventaja competitiva** <br/>¿Qué valor agregado ofrecen a sus clientes? |       |        | | |
+| **Perfil de Marketing** | **Mercado objetivo** |       |        | | |
+| | **Estrategias de marketing** |       |        | | |
+| **Perfil de Producto** | **Productos & Servicios** |       |        | | |
+| | **Precios & Costos** |       |        | | |
+| | **Canales de distribución** <br/>(Web y/o Móvil) |       |        | | |
+
+| **Análisis SWOT** | **1** | **C1** | **C2** | **C3** |
+|-------------------|-------|------------------|------------------|------------------|
+| **Fortalezas** |       | | | |
+| **Debilidades** |       | | | |
+| **Oportunidades** |       | | | |
+| **Amenazas** |       | | | |
+
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
 ## 2.2. Entrevistas.
