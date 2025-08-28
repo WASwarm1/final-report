@@ -16,7 +16,7 @@
 | Lang Nassi, Werner Khalil        | U202310003       |
 | Taipe Sangama, Jorge Francisco   | U202313458       |
 | Saúl, Ortega Muñoz               |        |
-| Armestar Heredia, Matias Gabriel |        |
+| Armestar Heredia, Matias Gabriel | U20221A553       |
 |                                  |        |
 
 Ciclo: 2025-20
