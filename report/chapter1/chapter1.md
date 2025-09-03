@@ -33,7 +33,11 @@ A continuación, se presenta el perfil de la startup WASwarm:
 #### 1.2.2.2. Lean UX Assumptions.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
-
+1. Creemos que implementar un sistema de filtros avanzados (por especialidad, distrito, y calificación de usuarios), para clientes que necesitan encontrar al técnico más adecuado para su necesidad específica de forma rápida y confiable. Sabremos que esto funciona cuando el tiempo promedio de contratación disminuya en un 30% y aumente el número de servicios contratados a través de búsquedas filtradas.
+2. Creemos que ofrecer perfiles de técnico detallados con insignias de verificación, portafolio de trabajos anteriores y reseñas verificadas, para clientes que buscan máxima confianza y seguridad antes de permitir el ingreso de un profesional a su hogar, sabremos que esta funcionalidad es valiosa cuando más del 80% de los usuarios visiten el perfil completo antes de contratar y las encuestas de satisfacción reflejen una alta percepción de seguridad.
+3. Creemos que diseñar un flujo de contratación de emergencia en 3 simples pasos (seleccionar servicio, confirmar datos, pagar), para clientes que enfrentan un problema urgente y necesitan una solución inmediata sin fricciones, sabremos que es efectivo cuando la tasa de abandono durante el proceso de reserva de emergencia sea inferior al 10% y los usuarios califiquen positivamente la rapidez de la solución.
+4. Creemos que desarrollar un panel de control simple para que los técnicos gestionen su agenda, acepten trabajos y vean sus ganancias, para técnicos profesionales que buscan organizar su trabajo de manera eficiente y sin complicaciones administrativas, sabremos que el diseño es eficaz cuando al menos el 90% de los técnicos activos utilicen el panel diariamente y se reduzca la tasa de citas canceladas por problemas de agenda.
+5. Creemos que establecer un sistema de precios estandarizados por tarea, visibles antes de la contratación, para diferenciarnos de la informalidad del mercado y eliminar la incertidumbre tanto para clientes como para técnicos, sabremos que la estrategia es exitosa cuando recibamos comentarios positivos sobre la transparencia de precios en las reseñas y observamos una alta tasa de conversión de visita a contratación.
 #### 1.2.2.4. Lean UX Canvas.
 
 ## 1.3. Segmentos objetivos.
