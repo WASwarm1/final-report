@@ -38,6 +38,30 @@ A continuación, se presenta el perfil de la startup WASwarm:
 
 ## 1.3. Segmentos objetivos.
 
-### Segmento objetivo #1: 
+### Segmento objetivo #1: Clientes: Usuarios que Contratan Servicios
+Segmento Primario: "El Solucionador Práctico"
+Este grupo busca una solución rápida, segura y eficiente para los problemas de su hogar, valorando su tiempo y tranquilidad por encima de todo.
+#### Demografía:
+- Edad: 18 a 60 años.
+- Nivel Socioeconómico (NSE): A y B.
+- Ocupación: Profesionales, empleados con jornadas laborales demandantes, jefes de hogar, o padres de familia.
+- Ubicación: Residentes en distritos urbanos con alta densidad poblacional y comercial en Lima Metropolitana (ej. Miraflores, San Isidro, Surco, Jesús María, La Molina).
+- Vivienda: Dueños de departamentos o casas, o inquilinos en contratos de largo plazo.
+#### Psicografía:
+- Valoran la seguridad: Les preocupa dejar entrar a un desconocido a su casa.
+- Priorizan la calidad y garantía: Han tenido malas experiencias previas con servicios informales.
+- Son tecnológicamente competentes: Usan aplicaciones para delivery, transporte y banca. Esperan una experiencia digital fluida.
+- Están dispuestos a pagar un poco más por un servicio verificado, transparente y garantizado.
 
-### Segmento objetivo #2:
+### Segmento objetivo #2: Técnicos: Profesionales que Ofrecen Servicios
+Segmento Primario: "El Profesional Independiente"
+Técnicos con experiencia y habilidades comprobadas que buscan formalizar su trabajo, aumentar sus ingresos y optimizar su tiempo.
+#### Demografia:
+- Edad: 25 a 60 años.
+- Ocupación: Profesionales técnicos especializados en gasfitería, electricidad, cerrajería, carpintería, pintura, etc.
+- Experiencia: Con al menos 3-5 años de experiencia demostrable en su oficio.
+#### Psicografía y Comportamiento:
+- Orgullosos de su trabajo: Buscan ser reconocidos por su habilidad y buen servicio.
+- Frustrados con la informalidad: Cansados de la inestabilidad de "trabajos esporádicos" y la competencia desleal.
+- Desean estabilidad económica: Quieren un flujo de clientes más predecible.
+- Son usuarios de smartphones: Se sienten cómodos usando aplicaciones básicas como WhatsApp para coordinar con clientes. Buscan herramientas que les faciliten el trabajo, no que lo compliquen.
