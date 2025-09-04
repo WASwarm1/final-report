@@ -137,6 +137,25 @@ de matching, verificación y gestión de pagos, optimizando la eficiencia del ma
 5. Fortalecimiento de la marca como sinónimo de confianza y calidad en servicios 
 técnicos, creando barreras de entrada para competidores y fidelizando a nuestros usuarios.
 
+**User Outcomes:**
+
+1. Los usuarios (tanto clientes como técnicos) podrán conectarse de manera segura y 
+eficiente en un ambiente de confianza mutua, donde los clientes encontrarán técnicos 
+verificados con precios transparentes en minutos, mientras que los técnicos accederán 
+a un flujo constante de trabajo que les permitirá formalizar y hacer crecer su negocio 
+de manera sostenible.
+
+2. La experiencia de contratación de servicios técnicos será completamente transformada, 
+eliminando la incertidumbre, los riesgos de seguridad y los problemas de comunicación, 
+creando un ecosistema donde ambas partes se benefician de transacciones justas, seguras y 
+satisfactorias.
+
+3. Los usuarios tendrán acceso a herramientas avanzadas de gestión y comunicación que 
+optimizarán su tiempo y recursos, permitiendo a los clientes resolver sus necesidades 
+domésticas de forma rápida y a los técnicos maximizar su productividad y reputación 
+profesional.
+
+
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 1. Creemos que implementar un sistema de filtros avanzados (por especialidad, distrito, y calificación de usuarios), para clientes que necesitan encontrar al técnico más adecuado para su necesidad específica de forma rápida y confiable. Sabremos que esto funciona cuando el tiempo promedio de contratación disminuya en un 30% y aumente el número de servicios contratados a través de búsquedas filtradas.
 2. Creemos que ofrecer perfiles de técnico detallados con insignias de verificación, portafolio de trabajos anteriores y reseñas verificadas, para clientes que buscan máxima confianza y seguridad antes de permitir el ingreso de un profesional a su hogar, sabremos que esta funcionalidad es valiosa cuando más del 80% de los usuarios visiten el perfil completo antes de contratar y las encuestas de satisfacción reflejen una alta percepción de seguridad.
