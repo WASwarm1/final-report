@@ -6,6 +6,12 @@ A continuación, se presenta el perfil de la startup WASwarm:
 
 ### 1.1.1. Descripción de la Startup
 
+**WASwarm** es una startup tecnológica orientada a transformar la forma en que las personas acceden a servicios de mantenimiento y mano de obra para el hogar. Nuestra plataforma web conecta a usuarios con técnicos especializados de manera ágil, confiable y transparente, facilitando un proceso que tradicionalmente ha sido informal, lento y poco seguro. **WASwarm** no actúa como una agencia de trabajos ni realiza asignaciones manuales. En cambio, empoderamos tanto a quienes buscan ayuda como a quienes ofrecen su trabajo, ofreciendo herramientas digitales para mejorar la experiencia, aumentar la confianza y reducir la fricción en cada contratación.
+
+**Misión**: Modernizar el acceso a servicios de mantenimiento y mano de obra para el hogar, brindando una plataforma digital que simplifique la contratación, eleve los estándares de calidad y genere nuevas oportunidades laborales para técnicos y profesionales del rubro.
+
+**Visión**: Consolidarnos como la plataforma de referencia en Perú —y luego en Latinoamérica— para la contratación de servicios técnicos domiciliarios, siendo un puente confiable entre quienes necesitan ayuda en casa y quienes tienen las habilidades para ofrecer.
+
 ### 1.1.2. Perfiles de integrantes del equipo
 
 |                         | Apellido y Nombre                                 | Carrera                | Acerca de                                                                                                                                        | Habilidades                                     |
