@@ -155,6 +155,20 @@ optimizarán su tiempo y recursos, permitiendo a los clientes resolver sus neces
 domésticas de forma rápida y a los técnicos maximizar su productividad y reputación 
 profesional.
 
+**Features:**
+
+* Sistema de verificación integral de técnicos con validación de antecedentes y habilidades
+* Catálogo de servicios con precios estandarizados por tarea
+* Búsqueda y filtrado de técnicos por ubicación, disponibilidad y especialidad
+* Perfiles detallados de técnicos con portafolio y reseñas
+* Sistema de agendamiento con calendario sincronizado
+* Sistema de pagos seguros con múltiples métodos de pago
+* Sistema de calificación y reseñas 
+* Panel de control para técnicos con gestión de agenda e ingresos
+* Dashboard para clientes con historial de servicios
+* Notificaciones de estado del servicio
+* Sistema de soporte al cliente con mediación de incidencias
+* Gestión automatizada de facturación y comprobantes
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 1. Creemos que implementar un sistema de filtros avanzados (por especialidad, distrito, y calificación de usuarios), para clientes que necesitan encontrar al técnico más adecuado para su necesidad específica de forma rápida y confiable. Sabremos que esto funciona cuando el tiempo promedio de contratación disminuya en un 30% y aumente el número de servicios contratados a través de búsquedas filtradas.
