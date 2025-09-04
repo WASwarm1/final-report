@@ -117,6 +117,25 @@ Entre las características más importantes de ChambaPro se encuentran los perfi
 
 ChambaPro debe tener un diseño visual limpio y profesional que inspire confianza y tranquilidad, especialmente importante cuando los usuarios enfrentan emergencias domésticas. La interfaz debe ser intuitiva y accesible, con navegación simplificada que permita encontrar y contratar servicios en pocos pasos. Debe comportarse de forma estable y responsive, adaptándose perfectamente a diferentes dispositivos. La información debe presentarse de manera clara y organizada, utilizando elementos visuales como iconos de verificación, calificaciones con estrellas y códigos de color para facilitar la toma de decisiones rápidas.
 
+**Business Outcomes:**
+1. Al desarrollar ChambaPro, prevemos un crecimiento sostenido en la base de usuarios 
+activos (tanto clientes como técnicos), lo cual incrementará nuestros ingresos por 
+comisiones y nos posicionará como la plataforma líder de servicios técnicos a 
+domicilio en el mercado latinoamericano.
+
+2. Generación de ingresos recurrentes y escalables mediante comisiones por servicios 
+completados, lo cual facilita la proyección financiera y permite reinversión en mejoras 
+de la plataforma.
+
+3. Expansión del negocio hacia nuevos mercados geográficos y categorías de servicios 
+especializados, aprovechando la confianza construida y la red de técnicos verificados 
+para diversificar nuestra oferta de valor.
+
+4. Reducción de costos operativos a largo plazo mediante la automatización de procesos 
+de matching, verificación y gestión de pagos, optimizando la eficiencia del marketplace.
+
+5. Fortalecimiento de la marca como sinónimo de confianza y calidad en servicios 
+técnicos, creando barreras de entrada para competidores y fidelizando a nuestros usuarios.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 1. Creemos que implementar un sistema de filtros avanzados (por especialidad, distrito, y calificación de usuarios), para clientes que necesitan encontrar al técnico más adecuado para su necesidad específica de forma rápida y confiable. Sabremos que esto funciona cuando el tiempo promedio de contratación disminuya en un 30% y aumente el número de servicios contratados a través de búsquedas filtradas.
