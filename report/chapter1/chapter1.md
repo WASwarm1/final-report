@@ -38,7 +38,30 @@ Lo que nos diferencia y constituye nuestro principal valor agregado es el ecosis
 
 ### 1.2.2 Lean UX Process.
 
+En esta sección, se presenta el proceso de Lean UX que se ha seguido para el desarrollo 
+de la plataforma ChambaPro. Este proceso incluye la creación de un Lean UX Problem Statement, 
+Assumptions, Hypothesis Statements y un Lean UX Canvas. El objetivo es definir claramente el 
+problema que se busca resolver, las suposiciones que se tienen sobre los usuarios y el 
+producto, así como las hipótesis que guiarán el desarrollo del mismo.
+
 #### 1.2.2.1. Lean UX Problem Statements.
+
+En el entorno doméstico actual, los dueños de casa e inquilinos enfrentan dificultades 
+para encontrar y contratar técnicos calificados de manera segura y confiable. Esto debido 
+a la falta de herramientas centralizadas que validen la experiencia profesional y ofrezcan 
+transparencia en precios. Lo cual da lugar a experiencias negativas con trabajos de baja 
+calidad, sobrecostos inesperados y una sensación de inseguridad al permitir el acceso de 
+desconocidos al hogar.
+Paralelamente, los técnicos calificados luchan contra la informalidad del sector y la 
+dificultad para acceder a un flujo constante de clientes, lo que genera incertidumbre 
+económica y limita su crecimiento profesional.
+El desafío actual es que las soluciones existentes no proveen una plataforma integral 
+que conecte de manera segura y transparente a ambos tipos de usuarios, manteniendo altos 
+estándares de calidad y confianza.
+¿Cómo podemos ofrecer tanto a clientes como a técnicos una plataforma confiable que facilite 
+conexiones seguras y transparentes, mejorando la experiencia de contratación de servicios 
+técnicos a domicilio?
+
 
 #### 1.2.2.2. Lean UX Assumptions.
 
