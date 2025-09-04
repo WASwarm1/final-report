@@ -68,6 +68,56 @@ técnicos a domicilio?
 
 #### 1.2.2.2. Lean UX Assumptions.
 
+**Users Assumptions:**
+
+1. **Creo que mis clientes necesitan** una herramienta confiable y centralizada para encontrar técnicos verificados, la cual les proporcione transparencia en precios y garantice la calidad del servicio, eliminando la incertidumbre y los riesgos asociados con la contratación informal.
+2. **Estas necesidades se pueden resolver con** una aplicación web como ChambaPro, la cual ofrece un marketplace digital que conecta clientes con técnicos verificados, manteniendo estándares de calidad y precios transparentes.
+3. **Mis clientes iniciales son** dueños de casa e inquilinos de 25 a 60 años en zonas urbanas, así como técnicos calificados que buscan formalizar su trabajo. Ambos grupos requieren una solución que les brinde seguridad y estabilidad en sus transacciones.
+4. **El valor #1 que un cliente quiere de mi servicio es** la capacidad de encontrar y contratar técnicos verificados de forma rápida, segura y transparente, con precios claros y garantía de calidad.
+5. **El cliente también puede obtener estos beneficios adicionales:** sistema de calificaciones bidireccional, comunicación fluida a través de chat integrado, agendamiento flexible, pagos seguros y soporte para mediación de incidencias.
+6. **Voy a adquirir la mayoría de mis clientes a través de estrategias de** marketing digital dirigido, referencias entre usuarios satisfechos y alianzas con ferreterías o tiendas de mejoramiento del hogar.
+7. **Haré dinero a través de** una comisión por cada servicio completado exitosamente en la plataforma, así como tarifas premium para técnicos que deseen mayor visibilidad en los resultados de búsqueda.
+8. **Mi competencia principal en el mercado serán** otras plataformas de servicios a domicilio como TaskRabbit y Handy, así como métodos tradicionales como referencias personales y búsquedas en redes sociales.
+9. **Los venceremos debido a** que ofrecemos un proceso de verificación más riguroso para técnicos, precios estandarizados y transparentes, garantía ChambaPro sobre los trabajos realizados, y un enfoque específico en el mercado latinoamericano con características culturalmente relevantes.
+10. **Mi mayor riesgo de producto es** que los usuarios no adopten la plataforma por desconfianza hacia las transacciones digitales o resistencia a cambiar métodos tradicionales de búsqueda de técnicos.
+11. **Resolveremos esto a través de** un proceso de onboarding que incluya demostraciones en vivo, testimonios de usuarios verificados, garantías claras sobre el servicio, un programa de primeros usuarios con beneficios especiales, y educación continua sobre seguridad digital.
+
+12. **¿Qué otras suposiciones tenemos? ¿Eso, si se prueba que es falso, causará que nuestro negocio/proyecto no funcione?**
+
+* Los clientes están dispuestos a pagar una tarifa ligeramente superior por la seguridad y 
+verificación que ofrece nuestra plataforma. Si los usuarios priorizan únicamente el precio 
+más bajo sin considerar la calidad y seguridad, podríamos tener dificultades para competir 
+con opciones informales.
+
+* Los técnicos calificados valoran la formalización y están dispuestos a cumplir con nuestros 
+estándares de verificación. Si la mayoría prefiere mantenerse en la informalidad, la 
+propuesta de valor de nuestra plataforma perdería relevancia.
+
+**¿Quién es el usuario?**
+
+Clientes (dueños de casa e inquilinos de 25-60 años en zonas urbanas) y técnicos calificados que buscan formalizar su trabajo.
+
+**¿Dónde encaja nuestro producto en su trabajo o vida?**
+
+Nuestro producto encaja en la gestión cotidiana del hogar para los clientes, convirtiéndose en su herramienta principal para resolver emergencias y planificar mejoras. Para los técnicos, se integra en su desarrollo profesional como canal principal de adquisición de clientes y oficina virtual para gestionar su trabajo diario.
+
+**¿Qué problemas tiene nuestro producto y cómo se pueden resolver?**
+
+ChambaPro puede enfrentar problemas como la resistencia inicial a confiar en desconocidos, dificultades para establecer precios justos en diferentes zonas geográficas, y la necesidad de mantener un equilibrio entre oferta y demanda de técnicos. Para resolver estos problemas, se puede implementar un sistema de verificación exhaustivo con antecedentes penales, establecer precios basados en estudios de mercado local, y desarrollar estrategias de crecimiento balanceado entre ambos segmentos de usuarios.
+
+**¿Cuándo y cómo se usa el producto?**
+
+El producto se utilizará principalmente cuando surjan necesidades de reparación o mantenimiento en el hogar, tanto para emergencias como para servicios programados. Se accede a través de una aplicación móvil y web compatible con múltiples dispositivos, permitiendo búsqueda, contratación y seguimiento de servicios. Los técnicos utilizarán la plataforma diariamente para recibir solicitudes, gestionar su agenda y comunicarse con clientes.
+
+**¿Qué características son importantes?**
+
+Entre las características más importantes de ChambaPro se encuentran los perfiles verificados de técnicos con historial detallado, un catálogo de servicios con precios estandarizados, sistema de agendamiento intuitivo, chat integrado para comunicación, pasarela de pagos segura, sistema de calificación bidireccional, y garantía ChambaPro sobre trabajos realizados.
+
+**¿Cómo debe verse nuestro producto y cómo debe comportarse?**
+
+ChambaPro debe tener un diseño visual limpio y profesional que inspire confianza y tranquilidad, especialmente importante cuando los usuarios enfrentan emergencias domésticas. La interfaz debe ser intuitiva y accesible, con navegación simplificada que permita encontrar y contratar servicios en pocos pasos. Debe comportarse de forma estable y responsive, adaptándose perfectamente a diferentes dispositivos. La información debe presentarse de manera clara y organizada, utilizando elementos visuales como iconos de verificación, calificaciones con estrellas y códigos de color para facilitar la toma de decisiones rápidas.
+
+
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 1. Creemos que implementar un sistema de filtros avanzados (por especialidad, distrito, y calificación de usuarios), para clientes que necesitan encontrar al técnico más adecuado para su necesidad específica de forma rápida y confiable. Sabremos que esto funciona cuando el tiempo promedio de contratación disminuya en un 30% y aumente el número de servicios contratados a través de búsquedas filtradas.
 2. Creemos que ofrecer perfiles de técnico detallados con insignias de verificación, portafolio de trabajos anteriores y reseñas verificadas, para clientes que buscan máxima confianza y seguridad antes de permitir el ingreso de un profesional a su hogar, sabremos que esta funcionalidad es valiosa cuando más del 80% de los usuarios visiten el perfil completo antes de contratar y las encuestas de satisfacción reflejen una alta percepción de seguridad.
