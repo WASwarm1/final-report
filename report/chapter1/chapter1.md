@@ -49,7 +49,7 @@ Lo que nos diferencia y constituye nuestro principal valor agregado es el ecosis
 4. Creemos que desarrollar un panel de control simple para que los técnicos gestionen su agenda, acepten trabajos y vean sus ganancias, para técnicos profesionales que buscan organizar su trabajo de manera eficiente y sin complicaciones administrativas, sabremos que el diseño es eficaz cuando al menos el 90% de los técnicos activos utilicen el panel diariamente y se reduzca la tasa de citas canceladas por problemas de agenda.
 5. Creemos que establecer un sistema de precios estandarizados por tarea, visibles antes de la contratación, para diferenciarnos de la informalidad del mercado y eliminar la incertidumbre tanto para clientes como para técnicos, sabremos que la estrategia es exitosa cuando recibamos comentarios positivos sobre la transparencia de precios en las reseñas y observamos una alta tasa de conversión de visita a contratación.
 #### 1.2.2.4. Lean UX Canvas.
-
+![Lean Ux Canvas1.png](../../assets/chapter1/Lean%20Ux%20Canvas1.png)
 ## 1.3. Segmentos objetivos.
 
 ### Segmento objetivo #1: Clientes: Usuarios que Contratan Servicios
