@@ -24,6 +24,10 @@ A continuación, se presenta el perfil de la startup WASwarm:
 
 ## 1.2. Solution Profile
 
+**ChambaPro** emerge como la solución definitiva a la incertidumbre y la informalidad en el sector de servicios técnicos a domicilio. Nuestra plataforma funciona como un marketplace digital que conecta de manera eficiente y segura a hogares y empresas con una red de personal técnico calificado, como gasfiteros, electricistas, cerrajeros y más. A través de un proceso de verificación de habilidades y antecedentes, este representando el valor añadido de la solución por el cual el equipo de desarrollo recibirá un porcentaje de ganancia en cada servicio acordado,  garantizamos que cada técnico en nuestra plataforma no solo sea competente, sino también confiable. Este enfoque integral, que abarca desde la estandarización de precios por tarea hasta la implementación de un sistema de pagos seguros y la oferta de garantías por el trabajo realizado, redefine la experiencia de contratar un servicio, aportando tranquilidad y profesionalismo a un mercado tradicionalmente fragmentado.
+
+Lo que nos diferencia y constituye nuestro principal valor agregado es el ecosistema de confianza que hemos construido. A diferencia de los directorios informales o las recomendaciones de boca a boca, **ChambaPro** ofrece un modelo transparente y estructurado.Los usuarios pueden visualizar perfiles detallados de los técnicos, leer valoraciones de otros clientes y conocer de antemano el costo fijo del servicio, eliminando las sorpresas y las negociaciones incómodas. Para los técnicos, representamos una oportunidad de formalización y crecimiento, brindándoles un flujo constante de clientes y herramientas para gestionar su trabajo de manera profesional liberándolos de la necesidad de buscar trabajos esporádicos.
+
 ### 1.2.1. Antecedentes y problemática
 
 **Antecedentes:**
