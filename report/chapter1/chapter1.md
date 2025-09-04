@@ -52,12 +52,15 @@ a la falta de herramientas centralizadas que validen la experiencia profesional 
 transparencia en precios. Lo cual da lugar a experiencias negativas con trabajos de baja 
 calidad, sobrecostos inesperados y una sensación de inseguridad al permitir el acceso de 
 desconocidos al hogar.
+
 Paralelamente, los técnicos calificados luchan contra la informalidad del sector y la 
 dificultad para acceder a un flujo constante de clientes, lo que genera incertidumbre 
 económica y limita su crecimiento profesional.
+
 El desafío actual es que las soluciones existentes no proveen una plataforma integral 
 que conecte de manera segura y transparente a ambos tipos de usuarios, manteniendo altos 
 estándares de calidad y confianza.
+
 ¿Cómo podemos ofrecer tanto a clientes como a técnicos una plataforma confiable que facilite 
 conexiones seguras y transparentes, mejorando la experiencia de contratación de servicios 
 técnicos a domicilio?
