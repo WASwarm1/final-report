@@ -206,6 +206,18 @@ preferencia, dispositivos de uso, etc.
 
 ### 2.3.1. User Persona.
 
+Esta sección presenta las fichas de User Persona elaborada a partir del análisis de entrevistas y hallazgos del 
+benchmarking. Cada arquetipo representa un segmento objetivo clave, reflejando sus características demográficas, 
+comportamientos, necesidades, frustraciones y motivaciones. Estos perfiles permiten guiar el diseño centrado en el 
+usuario, alineando la solución propuesta con contextos reales de uso.
+
+#### Segmento 1: Clientes
+
+Maria es una profesional de 38 años que vive en Lima con su familia. Busca técnicos confiables para 
+reparaciones en su hogar, pero le preocupa la seguridad y la calidad del trabajo.
+
+![User Persona 1.png](../../assets/chapter2/User%20Persona%201.png)
+
 ### 2.3.2. User Task Matrix.
 
 ### 2.3.3. User Journey Mapping.
