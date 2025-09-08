@@ -166,6 +166,38 @@ preferencia, dispositivos de uso, etc.
 * ¿Qué tipo de garantías o respaldos esperaría de este servicio?
 * ¿Prefiere agendar con anticipación o necesita disponibilidad inmediata?
 
+#### Preguntas para el segmento "Técnicos"
+
+* ¿Podría contarme sobre su trabajo? ¿En qué se especializa y cuántos años de experiencia tiene?
+* ¿Cómo es un día típico de trabajo para usted?
+* ¿Trabaja de forma independiente o para alguna empresa?
+* ¿En qué distritos o zonas suele trabajar más?
+
+* ¿Cómo consigue nuevos clientes habitualmente?
+* ¿Qué tan predecible es su flujo de trabajo? ¿Hay épocas mejores que otras?
+* ¿Ha usado internet o redes sociales para promocionar sus servicios?
+* ¿Qué tan difícil es destacarse de otros técnicos en su rubro?
+
+* ¿Cuáles son sus principales desafíos para conseguir trabajo constante?
+* ¿Ha tenido problemas con clientes? ¿Qué tipo de situaciones?
+* ¿Cómo maneja los precios? ¿Los negocia caso por caso o tiene tarifas fijas?
+* ¿Qué pasa cuando un cliente no está conforme con su trabajo o no le quiere pagar?
+
+* ¿Le gustaría formalizar más su trabajo? ¿Qué se lo impide?
+* ¿Ha pensado en tener más herramientas para gestionar su trabajo y clientes?
+* ¿Cómo lleva el control de sus citas, pagos y trabajos realizados?
+* ¿Le interesaría tener una forma de construir su reputación profesional?
+
+* ¿Usa smartphone? ¿Qué aplicaciones usa más?
+* ¿Estaría dispuesto a usar una plataforma digital para conseguir más clientes?
+* ¿Qué características le parecerían más útiles en una app para técnicos?
+* ¿Aceptaría pagar una comisión por cada trabajo conseguido a través de una plataforma?
+
+* Si hubiera una plataforma que le diera acceso a clientes verificados, con precios claros y pagos seguros, ¿la usaría?
+* ¿Qué tipo de verificación o requisitos estaría dispuesto a cumplir para ser parte de la plataforma?
+* ¿Cómo le gustaría que funcionara su perfil profesional en línea?
+* ¿Qué beneficios esperaría obtener al formar parte de esta plataforma?
+
 ### 2.2.2. Registro de entrevistas.
 
 ### 2.2.3. Análisis de entrevistas.
