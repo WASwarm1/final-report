@@ -218,6 +218,13 @@ reparaciones en su hogar, pero le preocupa la seguridad y la calidad del trabajo
 
 ![User Persona 1.png](../../assets/chapter2/User%20Persona%201.png)
 
+#### Segmento 2: Técnicos
+
+Carlos es un técnico gasfitero de 42 años que trabaja de manera independiente en Lima. Busca más clientes y 
+estabilidad laboral, pero le cuesta encontrar trabajo constante y lidiar con clientes difíciles.
+
+![User Persona 2.png](../../assets/chapter2/User%20Persona%202.png)
+
 ### 2.3.2. User Task Matrix.
 
 ### 2.3.3. User Journey Mapping.
