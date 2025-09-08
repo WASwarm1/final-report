@@ -20,7 +20,7 @@ A continuación, se presenta el perfil de la startup WASwarm:
 | ![Perfil_Jorge_Taipe.png](../../assets/chapter1/Perfil_Jorge_Taipe.png) | Taipe Sangama, Jorge Francisco                      | Ingeniería de Software | Soy estudiante que le gusta innovar y hacer proyectos personasles, me gustan las cosas desafiantes y trabajar bajo presion. | Perseverante, Creativo, Lider, Optimista        |
 | ![Perfil_Saul_Ortega.JPEG](../../assets/chapter1/Perfil_Saul_Ortega.JPEG) | Saúl, Ortega Muñoz                                  | Ingeniería de Software |Soy estudiante de Ingeniería de Software en 5.º ciclo, responsable y proactivo, con interés en el desarrollo de soluciones tecnológicas y en fortalecer mis habilidades para aportar en cada proyecto  | Responsable, leal, curioso                      |
 | ![Perfil_Armestar_Heredia.jpeg](../../assets/chapter1/Perfil_Armestar_Heredia.jpeg) | Armestar Heredia, Matias Gabriel (U20221A553)             | Ingeniería de Software | Estudiante de la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero un estudiante capaz de aportar significativamente a un equipo. | Cooperativo y Puntual.                          |
-|  |                                                   |                        |                                                                                                                                                  |                                                 |
+| ![Perfil_Emilia_Duran.jpeg](../../assets/chapter1/Perfil_Emilia_Duran.jpeg) | Emilia Duran Santander | Ingenieria de Software | Estudiante de la carrera de Ingenieria de Software. Me considero una persona responsable y con ánimos de aprender. | Responsable, perseverante, comprometida. |
 
 ## 1.2. Solution Profile
 
