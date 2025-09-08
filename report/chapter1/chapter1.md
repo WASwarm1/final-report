@@ -31,10 +31,52 @@ Lo que nos diferencia y constituye nuestro principal valor agregado es el ecosis
 ### 1.2.1. Antecedentes y problemática
 
 **Antecedentes:**
+En el mercado peruano, y gran parte de Latinoamérica, la contratación de servicios técnicos para el hogar, como la gasfitería, electricidad o cerrajería;  se ha desarrollado históricamente en un entorno de alta informalidad. Los dueños de casa y administradores de propiedades dependen en gran medida de recomendaciones de conocidos o de datos encontrados en directorios poco fiables, lo que genera una constante incertidumbre al momento de contratar estos servicios. Esta falta de un sistema estandarizado expone a los clientes a riesgos significativos, que van desde trabajos de mala calidad y precios arbitrarios hasta problemas de seguridad personal al permitir el ingreso de desconocidos a sus hogares. La desconfianza es bidireccional, ya que los técnicos profesionales también enfrentan dificultades para validar su experiencia, diferenciarse de la competencia informal y encontrar un flujo de trabajo estable y seguro. Este panorama refleja una brecha crítica en el mercado, donde la necesidad de confianza y profesionalismo es evidente, tal como lo señalan diversos análisis sobre la informalidad laboral en el sector de servicios, donde "la falta de garantías y la asimetría de información son barreras fundamentales para el desarrollo de un mercado de servicios eficiente y seguro para el consumidor".
+
+Frente a esta realidad, ChambaPro surge como una respuesta tecnológica e integral, diseñada para formalizar y dignificar el sector. Nuestra plataforma no solo actúa como un intermediario, sino como un ecosistema de confianza que verifica, capacita y respalda tanto al cliente como al técnico.
 
 **Problemática:**
++ **Alta desconfianza y riesgo de seguridad** al contratar personal técnico desconocido.
++ **Falta de transparencia y estandarización en los precios**, lo que lleva a sobrecostos y negociaciones incómodas.
++ **Calidad inconsistente y ausencia de garantía** por los trabajos realizados.
++ **Dificultad para encontrar técnicos calificados** de manera rápida y eficiente, especialmente en emergencias.
++ **Precariedad e inestabilidad laboral** para los técnicos profesionales que carecen de acceso a un mercado formal.
+
 
 **Técnica de The 5 'W's y 2 'H's**
+
+**What? (¿Qué?)**
++ **Producto:** Una plataforma digital accesible a través de una aplicación web. Contará con perfiles de técnicos verificados, sistema de calificación, pasarela de pagos integrada, chat de comunicación y un sistema de agendamiento de servicios.
++ **Servicios:**  Intermediación y conexión para servicios técnicos calificados a domicilio, incluyendo: gasfitería, electricidad, cerrajería, pintura, carpintería, instalación de electrodomésticos, y reparaciones generales del hogar. Se ofrecerá garantía por cada servicio contratado a través de la plataforma.
+
+**When? (¿Cuándo?)**
++ **Lanzamiento del Producto:** Lanzamiento de una versión Beta (MVP - Producto Mínimo Viable) en el Q1 del próximo año, enfocada en 2-3 distritos clave para validar el modelo. Lanzamiento oficial al mercado metropolitano en el Q3 del mismo año.
++ **Ciclo de Vida del Cliente:** Desde la identificación de una necesidad (ej. un grifo que gotea), pasando por la búsqueda y contratación en la app, la realización del servicio, el pago seguro, la calificación del técnico, y la recurrencia para futuras necesidades o servicios de mantenimiento.
+
+**Where? (¿Dónde?)**
++ **Ubicación:** El lanzamiento inicial se centrará en Lima Metropolitana, específicamente en distritos con alta densidad de hogares residenciales y comerciales (ej. Miraflores, San Isidro, Surco, La Molina, Jesús María). La expansión se planifica de forma gradual a otras ciudades principales del Perú.
++ **Mercado Objetivo:** Hombres y mujeres de 25 a 60 años, pertenecientes a los niveles socioeconómicos A, B y C, tecnológicamente activos, que sean dueños o inquilinos de viviendas y valoren la seguridad, la calidad y la eficiencia. También se apunta a pequeñas empresas y administradores de edificios.
+
+**Who? (¿Quién?)**
++ **Usuarios Principales:**
+    - **Clientes:** Dueños de casa, inquilinos y administradores de propiedades que necesiten soluciones rápidas y confiables.
+    - **Técnicos:** Profesionales independientes en distintos oficios (gasfiteros, electricistas, etc.) que buscan formalizar su trabajo, aumentar su cartera de clientes y operar de manera segura.
++ **Equipo del Proyecto:** Un equipo multidisciplinario compuesto por un CEO (Líder de Proyecto), un CTO (Líder de Tecnología), un CMO (Líder de Marketing), desarrolladores de software, un diseñador UX/UI, y un equipo de operaciones para la verificación y soporte de técnicos.
+
+**Why? (¿Por qué?)**
++ **Necesidad del Producto:** Existe una necesidad importante en el mercado de una solución que elimine la fricción, la desconfianza y la ineficiencia del proceso actual de contratación de servicios técnicos, aportando seguridad y estándares de calidad.
++ **Beneficios del Producto:**
+    - **Para el Cliente:** Seguridad (técnicos verificados), transparencia (precios fijos), garantía, comodidad (todo desde una app) y ahorro de tiempo.
+    - **Para el Técnico:** Acceso a más clientes, formalización de su trabajo, pagos seguros y puntuales, y construcción de una reputación profesional.
+
+**How? (¿Cómo?)**
++ **Implementación del Producto:** Desarrollo bajo una metodología ágil (Scrum). Se iniciará con un MVP para probar las funcionalidades clave (registro, búsqueda, agendamiento, pago). La captación de técnicos se realizará a través de alianzas con institutos técnicos y campañas digitales focalizadas. El lanzamiento al público se apoyará en una fuerte estrategia de marketing digital.
++ **Soporte y Mantenimiento:** Se dispondrá de un centro de atención al cliente para resolver incidencias tanto de clientes como de técnicos. El mantenimiento de la plataforma será constante para corregir errores, mejorar la usabilidad y añadir nuevas funcionalidades basadas en el feedback de los usuarios.
+
+**How Much? (¿Cuánto?)**
++ **Costo de Desarrollo y Producción:** Incluye costos de desarrollo de la plataforma, salarios del equipo, marketing de lanzamiento, costos operativos para la verificación de técnicos (verificación de antecedentes) y capital de trabajo inicial.
++ **Modelo de Precio:** ChambaPro cobrará una comisión porcentual (ej. 15%-20%) sobre el valor de cada servicio completado a través de la plataforma. El precio final para el cliente será transparente y estandarizado por tipo de tarea.
++ **Return on Investment Estimado:** El retorno de la inversión se proyecta a mediano plazo (2-3 años), basado en la adquisición de una masa crítica de usuarios y técnicos, la recurrencia de los servicios y la expansión geográfica. El ROI dependerá del volumen de transacciones y la optimización de los costos de adquisición de clientes.
 
 ### 1.2.2 Lean UX Process.
 
