@@ -135,6 +135,37 @@
 
 ### 2.2.1. Diseño la entrevistas.
 
+A continuación, se presentan las preguntas para las entrevistas de cada sección. 
+A demás, con la finalidad de no extender el tiempo de las entrevistas y facilitar información gráfica. 
+Haciendo uso de la herramienta GoogleForms hemos recolectado información personal como por ejemplo las marcas de 
+preferencia, dispositivos de uso, etc.
+
+#### Preguntas para el segmento "Clientes"
+
+* ¿Podría contarme la última vez que necesitó contratar un técnico para su hogar? ¿Qué tipo de servicio fue?
+* ¿Cómo suele buscar técnicos cuando los necesita? (recomendaciones, internet, directorios, etc.)
+* ¿Cuánto tiempo le toma normalmente encontrar un técnico confiable?
+* ¿Ha tenido malas experiencias contratando técnicos? ¿Qué pasó?
+
+* ¿Qué es lo primero que evalúa cuando va a contratar a un técnico?
+* ¿Cómo decide si confiar o no en una persona que va a ingresar a su hogar?
+* ¿Pregunta por los precios antes de contratar? ¿Cómo maneja las negociaciones?
+* ¿Qué información le gustaría conocer sobre un técnico antes de contratarlo?
+
+* ¿Qué es lo que más le preocupa cuando contrata servicios técnicos?
+* ¿Ha tenido problemas con sobrecostos o trabajos de mala calidad? ¿Cómo los resolvió?
+* ¿Qué pasa cuando tiene una emergencia en casa? (tubería rota, problema eléctrico, etc.)
+* ¿Le resulta fácil encontrar técnicos disponibles cuando los necesita urgentemente?
+
+* ¿Usa aplicaciones para solicitar servicios? (delivery, transporte, etc.)
+* Si existiera una plataforma donde pueda encontrar técnicos verificados con precios transparentes, ¿la usaría?
+* ¿Qué características consideraría más importantes en una app de este tipo?
+* ¿Estaría dispuesto/a a pagar un poco más por mayor seguridad y garantía?
+
+* ¿Cómo le gustaría que fuera el proceso ideal para contratar un técnico?
+* ¿Qué tipo de garantías o respaldos esperaría de este servicio?
+* ¿Prefiere agendar con anticipación o necesita disponibilidad inmediata?
+
 ### 2.2.2. Registro de entrevistas.
 
 ### 2.2.3. Análisis de entrevistas.
