@@ -215,3 +215,38 @@ preferencia, dispositivos de uso, etc.
 ### 2.3.5. As-is Scenario Mapping.
 
 ## 2.4. Ubiquitous Language.
+
+El Ubiquitous Language es un vocabulario común y preciso que debe ser utilizado por todos 
+los miembros del equipo para referirse a los conceptos del dominio del negocio de ChambaPro. 
+Este lenguaje elimina ambigüedades y asegura que todos hablen el mismo idioma.
+
+* Client (Cliente): Persona que utiliza la plataforma para solicitar servicios técnicos para su hogar o 
+propiedad, buscando profesionales confiables y verificados.
+* Technician (Técnico): Profesional especializado en servicios técnicos (gasfitería, electricidad, cerrajería, etc.) 
+que ofrece sus servicios a través de la plataforma ChambaPro.
+* Service Request (Solicitud de servicio): Petición creada por un Cliente especificando el tipo de trabajo 
+técnico necesario, ubicación, horario preferido y detalles específicos del problema.
+* Verification (Verificación): Proceso mediante el cual ChambaPro válida la identidad, referencias laborales y 
+habilidades técnicas de un profesional antes de aprobar su participación en la plataforma.
+* Service Category (Categoría de servicio): Clasificación principal de los trabajos técnicos ofrecidos en la plataforma 
+(Plumbing/Gasfitería, Electrical/Electricidad, Locksmithing/Cerrajería, Carpentry/Carpintería, etc.).
+* Rating (Calificación): Puntuación numérica del 1 a 5 estrellas que un Cliente otorga a un Técnico después de 
+completar un servicio, evaluando calidad, puntualidad y profesionalismo.
+* Secure Payment (Pago seguro): Sistema mediante el cual ChambaPro retiene el pago del Cliente hasta que el 
+servicio se complete satisfactoriamente, garantizando protección para ambas partes.
+* Service Zone (Zona de servicio): Área geográfica específica donde un Técnico está dispuesto y capacitado 
+para brindar sus servicios, optimizando tiempos de traslado.
+* Quote (Cotización): Precio específico propuesto por un Técnico para una Solicitud de Servicio particular, 
+basado en la complejidad y materiales requeridos.
+* Platform Commission (Comisión de plataforma): Porcentaje del valor total del servicio que ChambaPro retiene como 
+compensación por facilitar la conexión y garantizar la transacción.
+* Professional Profile (Perfil profesional): Información completa de un Técnico que incluye especialidades, 
+experiencia, portafolio de trabajos, calificaciones y certificaciones verificadas.
+* Service Completion (Finalización de servicio): Estado que indica que el trabajo técnico ha sido ejecutado 
+satisfactoriamente y confirmado tanto por el Técnico como por el Cliente.
+* Response Time (Tiempo de respuesta): Período que transcurre entre la publicación de una Solicitud de Servicio y 
+la primera respuesta o cotización de un Técnico disponible.
+* Customer Satisfaction (Satisfacción del cliente): Medición del nivel de conformidad de los Clientes con la calidad 
+del servicio recibido, el proceso de contratación y la experiencia general en la plataforma.
+* Service History (Historial de servicios): Registro completo de todos los trabajos realizados por un Técnico o 
+solicitados por un Cliente, incluyendo calificaciones, fechas y detalles del servicio.
