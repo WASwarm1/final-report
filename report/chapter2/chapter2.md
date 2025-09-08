@@ -137,7 +137,7 @@
 
 A continuación, se presentan las preguntas para las entrevistas de cada sección. 
 A demás, con la finalidad de no extender el tiempo de las entrevistas y facilitar información gráfica. 
-Haciendo uso de la herramienta GoogleForms hemos recolectado información personal como por ejemplo las marcas de 
+Haciendo uso de la herramienta Fillout hemos recolectado información personal como por ejemplo las marcas de 
 preferencia, dispositivos de uso, etc.
 
 #### Preguntas para el segmento "Clientes"
