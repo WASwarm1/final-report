@@ -240,6 +240,17 @@ estabilidad laboral, pero le cuesta encontrar trabajo constante y lidiar con cli
 
 ### 2.3.3. User Journey Mapping.
 
+En esta sección se presentan los User Journey Maps en su versión As-Is, uno por cada User Persona definida. 
+Cada journey refleja el recorrido actual que realiza el usuario en su contexto real de trabajo, desde el 
+inicio hasta el fin de sus actividades clave, sin la existencia de una solución tecnológica. Estos mapas 
+permiten identificar puntos de fricción, oportunidades de mejora y momentos críticos que guían el diseño 
+centrado en el usuario. Los journeys están directamente vinculados a los arquetipos previamente definidos.
+
+### Segmento 1: Clientes
+
+![User Journey Map - Client.png](../../assets/chapter2/User%20Journey%20Map%20-%20Client.png)
+
+
 ### 2.3.4. Empathy Mapping.
 
 ### 2.3.5. As-is Scenario Mapping.
