@@ -77,8 +77,17 @@ Orden lógico de las secciones:
 * Orientado a beneficios: El mensaje está adaptado a propietarios de viviendas que necesitan 
 servicios de mantenimiento.
 
-
 ### 4.2.2. Labeling Systems.
+
+Se representan los datos basados en el sistema de organización detallado anteriormente, buscando simplicidad y claridad para el usuario.
+
+Etiquetas utilizadas en el sitio:
+* "Encuentra el Técnico Adecuado para las Necesidades de tu Hogar"
+* "Sobre Nosotros"
+* "Beneficios"
+* "Vision Y Misión"
+* "Contacto"
+* "Registrarse"
 
 ### 4.2.3. SEO Tags and Meta Tags
 
