@@ -151,6 +151,12 @@ interactúa con Clientes y Técnicos, quienes son los principales actores extern
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
+En el diagrama de contenedores que corresponde al segundo nivel del C4, ofrece una
+Descripción más precisa de los componentes técnicos, lo que ayuda a una visión más
+amplia de la arquitectura de software.
+
+![Container_Diagram.png](../../assets/chapter4/Container_Diagram.png)
+
 ### 4.6.3. Software Architecture Components Diagrams.
 
 ## 4.7. Software Object-Oriented Design.
