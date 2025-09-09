@@ -257,6 +257,18 @@ centrado en el usuario. Los journeys están directamente vinculados a los arquet
 
 ### 2.3.4. Empathy Mapping.
 
+En esta sección se presentan los Empathy Maps, uno por cada User Persona definida. Cada mapa refleja
+las percepciones, pensamientos, sentimientos y comportamientos del usuario en su contexto real de trabajo,
+sin la existencia de una solución tecnológica. Estos mapas permiten profundizar en la comprensión del
+usuario, identificando sus necesidades emocionales y racionales, lo que guía el diseño centrado en el usuario.
+Los empathy maps están directamente vinculados a los arquetipos previamente definidos.
+
+#### Segmento 1: Clientes
+
+#### Semento 2: Técnicos
+
+![Empathy map- Tecnico.png](../../assets/chapter2/Empathy%20map-%20Tecnico.png)
+
 ### 2.3.5. As-is Scenario Mapping.
 
 ## 2.4. Ubiquitous Language.
