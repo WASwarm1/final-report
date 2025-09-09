@@ -170,6 +170,10 @@ Diagrama de componente de manejo de usuarios:
 
 ![User_Diagram.png](../../assets/chapter4/User_Diagram.png)
 
+Diagrama de componente de analiticas:
+
+![Analytics_Diagram.png](../../assets/chapter4/Analytics_Diagram.png)
+
 ## 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
