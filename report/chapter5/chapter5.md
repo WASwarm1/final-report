@@ -57,8 +57,8 @@
 <tr>
     <td colspan="5">Sprint 1 Goal</td>
     <td colspan="8">
-Desarollar y desplegar una lading con la finalidad de presentar informacion relevate a los usuarios a través de imágenes.
-La pagina debe ser completamente adaptable a todos los dispositovs que puedan utilizar los usuarios, asegurando una experiencia
+Desarollar y desplegar una lading con la finalidad de presentar información relevante a los usuarios a través de imágenes.
+La página debe ser completamente adaptable a todos los dispositivos que puedan utilizar los usuarios, asegurando una experiencia
 fluida y responsiva.</td>
 </tr>
 </table>
