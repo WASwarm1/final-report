@@ -72,6 +72,12 @@ Orden lógico de las secciones:
 
 ### 4.2.1. Organization Systems.
 
+* Jerárquico: El contenido se organiza desde el impacto inicial hasta el detalle de servicios.
+* Centrado en personas: La presentación del equipo es prominente para generar confianza.
+* Orientado a beneficios: El mensaje está adaptado a propietarios de viviendas que necesitan 
+servicios de mantenimiento.
+
+
 ### 4.2.2. Labeling Systems.
 
 ### 4.2.3. SEO Tags and Meta Tags
