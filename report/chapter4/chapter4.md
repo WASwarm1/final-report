@@ -22,6 +22,8 @@
 
 ### 4.3.1. Landing Page Wireframe.
 
+![Landing_Page_WireFrame.jpg](../../assets/chapter4/Landing_Page_WireFrame.jpg)
+
 ### 4.3.2. Landing Page Mock-up.
 
 ## 4.4. Web Applications UX/UI Design.
