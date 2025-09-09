@@ -20,6 +20,10 @@
 
 ## 4.3. Landing Page UI Design.
 
+En esta sección, se presentan los diseños de los wireframes y mock-ups de la pagina de inicio de 
+chambaPro. Estos diseños son fundamentales para establecer la identidad visual y la experiencia del 
+usuario en la plataforma.
+
 ### 4.3.1. Landing Page Wireframe.
 
 ![LandingPageWireframe.jpg](../../assets/chapter4/LandingPageWireframe.jpg)
