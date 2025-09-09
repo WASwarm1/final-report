@@ -6,9 +6,9 @@
 
 #### Tono de Comunicación:
 
-* Profesional y confiable, dirigido a propietarios de viviendas que buscan servicios de calidad
-* Accesible pero competente, para transmitir expertise sin ser intimidante
-* Orientado al servicio, enfocado en resolver problemas y brindar tranquilidad
+* Profesional y confiable, dirigido a propietarios de viviendas que buscan servicios de calidad.
+* Accesible pero competente, para transmitir expertise sin ser intimidante.
+* Orientado al servicio, enfocado en resolver problemas y brindar tranquilidad.
 
 #### Tipografía:
 
@@ -35,10 +35,10 @@ en el front-end de la aplicación web.
 
 #### Spacing y Layout:
 
-* Uso generoso de espacios en blanco para dar claridad visual
-* Secciones bien diferenciadas con márgenes consistentes
-* Cards de equipo con bordes redondeados y sombras suaves
-* Diseño centrado para contenido principal
+* Uso generoso de espacios en blanco para dar claridad visual.
+* Secciones bien diferenciadas con márgenes consistentes.
+* Cards de equipo con bordes redondeados y sombras suaves.
+* Diseño centrado para contenido principal.
 
 ### 4.1.2. Web Style Guidelines.
 
@@ -46,17 +46,17 @@ en el front-end de la aplicación web.
 
 #### Componentes Implementados:
 
-* Header: Logo ChambaPro y navegación principal
-* Sección Hero: Título principal, descripción del servicio y botón CTA prominente
-* Cards de equipo: Perfiles profesionales con fotos circulares y nombres
-* Sección de misión y visión: Contenido explicativo sobre valores de la empresa
-* Sección de beneficios: Información sobre valor agregado del servicio
-* Footer: Enlaces secundarios y información legal
+* Header: Logo ChambaPro y navegación principal.
+* Sección Hero: Título principal, descripción del servicio y botón CTA prominente.
+* Cards de equipo: Perfiles profesionales con fotos circulares y nombres.
+* Sección de misión y visión: Contenido explicativo sobre valores de la empresa.
+* Sección de beneficios: Información sobre valor agregado del servicio.
+* Footer: Enlaces secundarios y información legal.
 
 #### Interacciones: 
 
 * Hover sobre botones (cambio de color y efectos sutiles).
-* Layout limpio sin mucha carga de imágenes  o videos para optimizar tiempos de carga.
+* Layout limpio sin mucha carga de imágenes o videos para optimizar tiempos de carga.
 
 ## 4.2. Information Architecture.
 
@@ -64,11 +64,11 @@ Se realizó la página basada en órdenes simples y coherentes para propietarios
 que buscan servicios de mantenimiento confiables.
 
 Orden lógico de las secciones:
-* Hero: Primer impacto visual con propuesta de valor clara
-* Presentación del equipo: Construcción de confianza a través de perfiles profesionales
-* Misión y visión: Establecimiento de credibilidad y valores
-* Beneficios: Refuerzo de la propuesta de valor
-* Contacto: Información para establecer comunicación
+* Hero: Primer impacto visual con propuesta de valor clara.
+* Presentación del equipo: Construcción de confianza a través de perfiles profesionales.
+* Misión y visión: Establecimiento de credibilidad y valores.
+* Beneficios: Refuerzo de la propuesta de valor.
+* Contacto: Información para establecer comunicación.
 
 ### 4.2.1. Organization Systems.
 
