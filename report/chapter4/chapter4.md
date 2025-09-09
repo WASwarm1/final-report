@@ -60,6 +60,16 @@ en el front-end de la aplicación web.
 
 ## 4.2. Information Architecture.
 
+Se realizó la página basada en órdenes simples y coherentes para propietarios de viviendas 
+que buscan servicios de mantenimiento confiables.
+
+Orden lógico de las secciones:
+* Hero: Primer impacto visual con propuesta de valor clara
+* Presentación del equipo: Construcción de confianza a través de perfiles profesionales
+* Misión y visión: Establecimiento de credibilidad y valores
+* Beneficios: Refuerzo de la propuesta de valor
+* Contacto: Información para establecer comunicación
+
 ### 4.2.1. Organization Systems.
 
 ### 4.2.2. Labeling Systems.
