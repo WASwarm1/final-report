@@ -2,6 +2,17 @@
 
 ## 2.1. Competidores.
 
+En esta sección se identifican y describen los principales competidores de ChambaPro, tanto aquellos que actúan de manera directa en el mismo segmento de servicios técnicos como los que se ubican en sectores relacionados, como el diseño, mantenimiento y remodelación de hogares. El objetivo de este análisis es mostrar cómo se posiciona cada alternativa en el mercado y en qué medida se diferencian de la propuesta de ChambaPro.
+
+Homify
+Es una plataforma con presencia internacional cuyo enfoque está orientado a la inspiración en proyectos de vivienda y decoración. Se centra en conectar a los usuarios con profesionales de arquitectura y diseño, utilizando contenido visual atractivo como fotografías, revistas digitales y consejos de bricolaje. Aunque permite el contacto entre especialistas y clientes, su propuesta no asegura una conversión directa hacia proyectos contratados.
+
+Home Solution
+Se trata de un marketplace digital presente en distintos países de Latinoamérica que permite a los usuarios publicar sus necesidades relacionadas con reparaciones, mantenimiento o mejoras en el hogar. A partir de ello, los clientes reciben múltiples presupuestos de diferentes técnicos en un corto plazo. Su ventaja radica en la rapidez del proceso, aunque presenta limitaciones en cuanto a la validación de la experiencia y credenciales de los profesionales que participan en la plataforma.
+
+Habitissimo
+Es una marca consolidada en España y con gran penetración en mercados latinoamericanos, especializada en proyectos de construcción y remodelación. Su modelo de negocio consiste en que los profesionales pagan por acceder a oportunidades de clientes (leads), lo que ha permitido generar una amplia base de especialistas y una comunidad activa. Sin embargo, este esquema puede resultar poco atractivo para técnicos independientes o con menos recursos, debido al costo que implica participar.
+
 ### 2.1.1. Análisis competitivo.
 
 <table border="1" cellspacing="0" cellpadding="5">
