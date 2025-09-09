@@ -26,30 +26,30 @@
   </tr>
   <tr>
     <td colspan="5">Date</td>
-    <td colspan="8">-</td>
+    <td colspan="8">2025-09-10</td>
 </tr>
   <tr>
     <td colspan="5">Time</td>
-    <td colspan="8">-</td>
+    <td colspan="8">21:30</td>
   </tr>
   <tr>
     <td colspan="5">Location</td>
-    <td colspan="8">-</td>
+    <td colspan="8">via Google Meets</td>
 <tr>
     <td colspan="5">Prepared By</td>
-    <td colspan="8">-</td>
+    <td colspan="8">Werner Lang</td>
 </tr>
 <tr>
     <td colspan="5">Attendees (to planning meeting)</td>
-    <td colspan="8">-</td>
+    <td colspan="8">Werner Khalil Lang Nassi, Jorge Francisco Taipe Sangama, Saúl Ortega Muñoz, Matias Gabriel Armestar Heredia, Emilia Duran Santander</td>
 </tr>
 <tr>
     <td colspan="5">Sprint  1 Review Summary</td>
-    <td colspan="8">-</td>
+    <td colspan="8">En este primer sprint se asignaron responsabilidades a cada integrante y planteo los requerimientos para el desarrollo de la Landing Page.</td>
 </tr>
 <tr>
     <td colspan="5">Sprint 1 Retrospective Summary</td>
-    <td colspan="8">-</td>
+    <td colspan="8">En esta sección todos los integrantes mencionaron tener aciertos en partes del codigo y en otras partes poder mejorar sus habilidades realizando la Landing Page</td>
 </tr>
 <tr>
     <td colspan="13">Sprint Goal & User Stories</td>
@@ -57,7 +57,9 @@
 <tr>
     <td colspan="5">Sprint 1 Goal</td>
     <td colspan="8">
--</td>
+Desarollar y desplegar una lading con la finalidad de presentar informacion relevate a los usuarios a través de imágenes.
+La pagina debe ser completamente adaptable a todos los dispositovs que puedan utilizar los usuarios, asegurando una experiencia
+fluida y responsiva.</td>
 </tr>
 </table>
 
@@ -65,12 +67,12 @@
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 
 | Team member (LastName, First Name) | GitHub UserName | Aspect 1: Landing Page Leader (L) / Collaborator (C) | Aspect 2: Diseños Figma: Leader (L) / Collaborator (C) | Aspect 3: Reporte (L) / Collaborator (C) |
-|------------------------------------|-----------------|------------------------------------------------------|--------------------------------------------------------|------------------------------------------|
-| Lang Nassi, Werner Khalil          | 00WernerLang    |                                                      |                                                        |                                          |
-|          |     |                                                      |                                                        |                                          |
-|           |     |                                                      |                                                        |                                          |
-|           |     |                                                      |                                                        |                                          |
-|           |     |                                                      |                                                        |                                          |
+|------------------------------------|-----------------|------------------------------------------------------|--------------------------------------------------------|-----------------------------------------|
+| Lang Nassi, Werner Khalil          | 00WernerLang    |                                                      |                                                        | L                                       |
+|                                    |     |                                                      |                                                        |                                         |
+|                                    |     |                                                      |                                                        |                                         |
+|                                    |     |                                                      |                                                        |                                         |
+|                                    |     |                                                      |                                                        |                                         |
 
 #### 5.2.1.3. Sprint Backlog 1.
 
