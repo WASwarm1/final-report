@@ -162,9 +162,13 @@ amplia de la arquitectura de software.
 A continuación, se mostrarán los diagramas de componentes para cada Bounded Context, junto con detalles 
 sobre las tecnologías utilizadas e implementaciones específicas.
 
-Diagrama de component de lista de trabajos:
+Diagrama de componente de lista de trabajos:
 
 ![Work_Diagram.png](../../assets/chapter4/Work_Diagram.png)
+
+Diagrama de componente de manejo de usuarios:
+
+![User_Diagram.png](../../assets/chapter4/User_Diagram.png)
 
 ## 4.7. Software Object-Oriented Design.
 
