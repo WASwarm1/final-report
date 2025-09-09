@@ -159,6 +159,13 @@ amplia de la arquitectura de software.
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
+A continuación, se mostrarán los diagramas de componentes para cada Bounded Context, junto con detalles 
+sobre las tecnologías utilizadas e implementaciones específicas.
+
+Diagrama de component de lista de trabajos:
+
+![Work_Diagram.png](../../assets/chapter4/Work_Diagram.png)
+
 ## 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
