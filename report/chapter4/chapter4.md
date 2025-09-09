@@ -144,6 +144,11 @@ usuario en la plataforma.
 
 ### 4.6.1. Software Architecture Context Diagram.
 
+En el diagrama de contexto de la arquitectura de software, se ilustra cómo el sistema 
+interactúa con Clientes y Técnicos, quienes son los principales actores externos.
+
+![Context_Diagram.png](../../assets/chapter4/Context_Diagram.png)
+
 ### 4.6.2. Software Architecture Container Diagrams.
 
 ### 4.6.3. Software Architecture Components Diagrams.
