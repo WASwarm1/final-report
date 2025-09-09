@@ -103,6 +103,12 @@ servicios del hogar, técnicos profesionales.
 
 ### 4.2.4. Searching Systems.
 
+* **Navegación por secciones:** Facilita el acceso a diferentes áreas del sitio mediante la barra 
+de navegación superior
+* **Búsqueda por perfiles:** Los usuarios pueden revisar los perfiles del equipo para encontrar 
+el técnico adecuado
+* **Categorización de servicios:** Implícita a través de la presentación del equipo y servicios
+
 ### 4.2.5. Navigation Systems.
 * **Barra de navegación:** Incluye enlaces a las secciones principales del sitio web, como 
 "Sobre Nosotros","Servicios", "Contacto", etc.
