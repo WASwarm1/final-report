@@ -17,6 +17,11 @@
 ### 4.2.4. Searching Systems.
 
 ### 4.2.5. Navigation Systems.
+* **Barra de navegación:** Incluye enlaces a las secciones principales del sitio web, como 
+"Sobre Nosotros","Servicios", "Contacto", etc.
+* **Botones de llamada a la acción (CTA):** Botones destacados en la sección Hero y en otras
+partes del sitio para incentivar a los usuarios a registrarse, iniciar sesión o contactarnos.
+* **Footer:** Contiene enlaces adicionales, términos de servicio, contacto y otros.
 
 ## 4.3. Landing Page UI Design.
 
