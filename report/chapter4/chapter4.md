@@ -40,10 +40,23 @@ en el front-end de la aplicación web.
 * Cards de equipo con bordes redondeados y sombras suaves
 * Diseño centrado para contenido principal
 
-
-
-
 ### 4.1.2. Web Style Guidelines.
+
+**Responsive Design:** La página es adaptable visualmente a cualquier dispositivo.
+
+#### Componentes Implementados:
+
+* Header: Logo ChambaPro y navegación principal
+* Sección Hero: Título principal, descripción del servicio y botón CTA prominente
+* Cards de equipo: Perfiles profesionales con fotos circulares y nombres
+* Sección de misión y visión: Contenido explicativo sobre valores de la empresa
+* Sección de beneficios: Información sobre valor agregado del servicio
+* Footer: Enlaces secundarios y información legal
+
+#### Interacciones: 
+
+* Hover sobre botones (cambio de color y efectos sutiles).
+* Layout limpio sin mucha carga de imágenes  o videos para optimizar tiempos de carga.
 
 ## 4.2. Information Architecture.
 
