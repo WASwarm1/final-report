@@ -41,7 +41,11 @@
 | US 18    | Reseñas de clientes            | Como cliente, quiero dejar mi reseña después de un servicio para compartir mi experiencia con otros             | Escenario 1: Envío de reseña - Dado que el cliente completó un servicio, cuando redacta su reseña y calificación, entonces el sistema la publica en el perfil del técnico.                                                                                                                                                                                                     | EP07                    |
 | US 19    | Métodos de pago                | Como cliente, quiero elegir entre diferentes métodos de pago para completar mi transacción                      | Escenario 1: Selección de método - Dado que el cliente confirma el servicio, cuando selecciona tarjeta o billetera digital, entonces el sistema procesa el pago.                                                                                                                                                                                                               | EP08                    |
 | US 20    | Confirmación de pago           | Como cliente, quiero recibir confirmación de mi pago para tener seguridad de que la transacción fue exitosa     | Escenario 1: Pago exitoso - Dado que el sistema valida el pago, cuando se finaliza la transacción, entonces muestra mensaje de confirmación y envía comprobante digital. Escenario 2: Error en transacción - Dado que el cliente ingresa datos inválidos o fondos insuficientes, cuando procesa el pago, entonces el sistema muestra un mensaje de error y permite reintentar. | EP08                    |
+
+
 ## 3.3. Impact Mapping.
+
+![ChambaPro_ImpactMap.png](../../assets/chapter3/ChambaPro_ImpactMap.png)
 
 ## 3.4. Product Backlog.
 
