@@ -4,6 +4,45 @@
 
 ### 4.1.1. General Style Guidelines.
 
+#### Tono de Comunicación:
+
+* Profesional y confiable, dirigido a propietarios de viviendas que buscan servicios de calidad
+* Accesible pero competente, para transmitir expertise sin ser intimidante
+* Orientado al servicio, enfocado en resolver problemas y brindar tranquilidad
+
+#### Tipografía:
+
+* **Inter:** Fuente sans-serif moderna y legible, ideal para interfaces digitales. Usada en el landing page.
+* **Hammersmith One:** Fuente sans-serif con un toque de personalidad, utilizada principalmente 
+en el front-end de la aplicación web.
+
+#### Colores de Marca: 
+
+* Primario: Azul turquesa (#20B2AA) - Representa confianza y profesionalismo
+* Secundario: Gris Claro (#D9D9D9) - Utilizado para elementos interactivos y botones secundarios.
+* Neutro: Gris Claro (#f5f5f5) - Utilizados para textos secundarios y fondos.
+* Fondo: Blanco (#ffffff) - Limpio y claro, para facilitar la lectura.
+
+#### Paleta de Colores:
+
+| Color         | Hex      | Uso Principal                               |
+|---------------|----------|---------------------------------------------|
+| Azul Turquesa | #20B2AA  | Elementos interactivos, botones CTA         |
+| Gris Claro    | #D9D9D9  | Botones secundarios, elementos interactivos |
+| Gris Claro    | #f5f5f5  | Fondos, áreas de contenido                  |
+| Blanco        | #ffffff  | Fondos                                      |
+| Gris Oscuro   | #2e2e2e  | Textos principales, elementos de contraste  |
+
+#### Spacing y Layout:
+
+* Uso generoso de espacios en blanco para dar claridad visual
+* Secciones bien diferenciadas con márgenes consistentes
+* Cards de equipo con bordes redondeados y sombras suaves
+* Diseño centrado para contenido principal
+
+
+
+
 ### 4.1.2. Web Style Guidelines.
 
 ## 4.2. Information Architecture.
