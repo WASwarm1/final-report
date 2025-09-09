@@ -250,6 +250,10 @@ centrado en el usuario. Los journeys están directamente vinculados a los arquet
 
 ![User Journey Map - Client.png](../../assets/chapter2/User%20Journey%20Map%20-%20Client.png)
 
+### Segmento 2: Técnicos
+
+![User journey map - Technician.png](../../assets/chapter2/User%20journey%20map%20-%20Technician.png)
+
 
 ### 2.3.4. Empathy Mapping.
 
