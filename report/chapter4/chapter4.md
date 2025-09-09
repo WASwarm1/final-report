@@ -91,6 +91,16 @@ Etiquetas utilizadas en el sitio:
 
 ### 4.2.3. SEO Tags and Meta Tags
 
+* **Title:** ChambaPro - Encuentra el Técnico Adecuado para las Necesidades de tu Hogar.
+* **Description:** ChambaPro te conecta con técnicos calificados para todas tus necesidades 
+de mantenimiento y reparación del hogar. Servicio profesional y confiable en el que puedes confiar.
+* **Keywords:** ChambaPro, mantenimiento del hogar, reparación del hogar, técnicos calificados, 
+servicios del hogar, técnicos profesionales.
+* **Meta Tags:**
+  * **Viewport:** width=device-width, initial-scale=1.0
+  * **Charset:** UTF-8
+* **Author:** WASwarm
+
 ### 4.2.4. Searching Systems.
 
 ### 4.2.5. Navigation Systems.
