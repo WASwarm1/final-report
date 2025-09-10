@@ -129,6 +129,24 @@ Se usan **sustantivos** para clases y **verbos** para funciones.
 
 ### 5.1.4. Software Deployment Configuration.
 
+En esta sección se describen las configuraciones y herramientas utilizadas para el despliegue del software desarrollado.
+El objetivo es asegurar que el proceso de despliegue sea eficiente, automatizado y confiable.
+
+#### Despliegue de la Landing Page:
+
+La **Landing Page** fue desarrollada utilizando tecnologías web estándar como HTML, CSS y JavaScript. Y fue desplegada utilizando **GitHub Pages**, 
+un servicio de alojamiento web estático proporcionado por GitHub.
+
+#### Pasos para el despliegue:
+
+1. **Creación del repositorio**: Se creó un repositorio en la organización de GitHub llamado `Landing-Page`.
+2. **Desarrollo del sitio**: El código fuente de la landing page se desarrolló y organizó en el repositorio.
+3. **Configuración de GitHub Pages**: En la configuración del repositorio, se habilitó GitHub Pages seleccionando la rama `main` como fuente.
+4. **Despliegue automático**: Cada vez que se realiza un push a la rama `main`, GitHub Pages actualiza automáticamente el sitio web.
+
+**Repositorio de la Landing Page**: https://github.com/WASwarm1/Landing-Page
+**URL de la Landing Page desplegada**: https://waswarm1.github.io/Landing-Page/
+
 ## 5.2. Landing Page, Services & Applications Implementation.
 
 ### 5.2.1. Sprint 1
