@@ -288,6 +288,20 @@ El desarrollo de servicios backend y funcionalidades adicionales está planifica
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
+La landing page fue desplegada utilizando **GitHub Pages**, un servicio de alojamiento web estático proporcionado por GitHub.
+El proceso de despliegue fue el siguiente:
+
+1. **Creación del repositorio**: Se creó un repositorio en la organización de GitHub: https://github.com/WASwarm1/Landing-Page
+2. **Desarrollo del sitio**: El código fuente de la landing page se desarrolló y organizó en el repositorio.
+3. **Configuración de GitHub Pages**: En la configuración del repositorio, se habilitó GitHub Pages seleccionando la rama `main` como fuente.
+4. **Verificación del despliegue**: Se verificó que la landing page estuviera accesible públicamente y funcionara correctamente 
+en diferentes dispositivos y navegadores en la siguiente URL: 
+
+**Landing Page desplegada:** https://waswarm1.github.io/Landing-Page/
+
+#### Evidencia de despliegue:
+![Evidencia_Deployment.png](../../assets/chapter5/Evidencia_Deployment.png)
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 ## 5.3. Validation Interviews.
