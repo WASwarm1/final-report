@@ -322,4 +322,24 @@ en diferentes dispositivos y navegadores en la siguiente URL:
 
 ## Bibliografía.
 
-### Anexos.
+## Anexos.
+
+### VIDEOS:
+
+| Título                  | Descripción | Enlace |
+|-------------------------|-------------|--------|
+| Video de exposición TB1 |             |        |
+| Vídeo de entrevistas    |             |        |
+
+### UX/UI:
+
+| Título | Descripción                                                                                                | Enlace                      |
+|--------|------------------------------------------------------------------------------------------------------------|-----------------------------|
+| Figma  | Enlace hacia el documento de Figma con todos los diseños planteados para tanto Frontend como Landing Page. | https://acortar.link/TzhMF3 |
+
+### GITHUB:
+
+| Título               | Descripción                              | Enlace                      |
+|----------------------|------------------------------------------|-----------------------------|
+| Reporte del proyecto | Enlace al repositorio del reporte        | https://acortar.link/fM6JgD |
+| Landing Page         | Enlace al repositorio de la landing page | https://acortar.link/cISgq8 |
