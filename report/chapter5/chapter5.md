@@ -2,7 +2,36 @@
 
 ## 5.1. Software Configuration Management.
 
+En esta sección se describen las herramientas y configuraciones utilizadas para gestionar el desarrollo del software, 
+incluyendo el entorno de desarrollo, el control de versiones, las convenciones de estilo de código y la configuración del despliegue.
+
 ### 5.1.1. Software Development Environment Configuration.
+
+En esta sección, se incluirá los productos de software que se usaron en el proyecto. Los enlaces a cada una de las 
+herramientas se encuentran disponibles en los anexos.
+
+#### Project Management:
+
+* Trello: Herramienta de gestión de proyectos basada en tableros Kanban. Permite organizar tareas, asignar 
+responsabilidades y hacer seguimiento del progreso del proyecto.
+
+#### Product UX/UI Design:
+
+* Figma: Herramienta de diseño colaborativo para crear prototipos, wireframes y diseños de interfaces de usuario.
+* Uxpressia: Plataforma para crear mapas de experiencia de usuario, customer journey maps y user personas.
+* Visual Paradigm: Herramienta de modelado UML y diseño de software.
+
+#### Software Development:
+
+* Rider: Entorno de desarrollo integrado (IDE) para .NET y C#.
+* Webstorm: IDE para desarrollo web, soporta HTML, CSS, JavaScript y frameworks modernos.
+* GitHub: Plataforma de alojamiento de código fuente y control de versiones utilizando Git.
+* Visual Studio Code: Editor utilizado únicamente para la exportación del reporte de formato markdown a PDF.
+
+#### Software Deployment:
+
+* GitHub Pages: Servicio de alojamiento web estático proporcionado por GitHub, ideal para desplegar sitios web y documentación.
+* Netlify: Plataforma de despliegue y alojamiento para sitios web estáticos y aplicaciones web modernas.
 
 ### 5.1.2. Source Code Management.
 
