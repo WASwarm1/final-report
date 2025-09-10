@@ -68,11 +68,11 @@ fluida y responsiva.</td>
 
 | Team member (LastName, First Name) | GitHub UserName | Aspect 1: Landing Page Leader (L) / Collaborator (C) | Aspect 2: Diseños Figma: Leader (L) / Collaborator (C) | Aspect 3: Reporte (L) / Collaborator (C) |
 |------------------------------------|-----------------|------------------------------------------------------|--------------------------------------------------------|-----------------------------------------|
-| Lang Nassi, Werner Khalil          | 00WernerLang    |                                                      |                                                        | L                                       |
-|                                    |     |                                                      |                                                        |                                         |
-|                                    |     |                                                      |                                                        |                                         |
-|                                    |     |                                                      |                                                        |                                         |
-|                                    |     |                                                      |                                                        |                                         |
+| Lang Nassi, Werner Khalil          | 00WernerLang    | L                                                    |                                                        | L                                       |
+| Jorge Franciscoz Taipe Sangama     | CamotinFurious  |                                                      | L                                                      |                                         |
+| Ortega Muñoz, Saúl                 | Ss1lent10       |                                                      |                                                        |                                         |
+| Armestar Heredia, Matias Gabriel   | MatiasArmestar  |                                                      |                                                        |                                         |
+| Duran Santander, Emilia            | emiliadurans    |                                                      |                                                        |                                         |
 
 #### 5.2.1.3. Sprint Backlog 1.
 
