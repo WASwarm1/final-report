@@ -103,11 +103,14 @@ fluida y responsiva.</td>
 |            |                                 | W21 |   Desarrollar sección de contacto    |      Implementar footer completo con todos los canales de contacto       |         2          |      -      |                     To do                      |
 #### 5.2.1.4. Development Evidence for Sprint Review.
 
+En esta sección se demuestran los commits relacionados con los principales avances en la implementación. 
+Estos commits provienen del repositorio de la landing de la organización de GitHub.
 
+Enlace al repositorio de la Landing Page: https://github.com/WASwarm1/Landing-Page
 
-| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
-|------------|--------|-----------|----------------|---------------------|--------------------|
-|            |        |           |                |                     |                    |
+| Repository           | Branch | Commit Id | Commit Message   | Commit Message Body | Commited on (Date) |
+|----------------------|--------|-----------|------------------|---------------------|--------------------|
+| WASwarm/Landing-Page | main   | c612997   | fix: Logo color  |                     | 9/9/2025           |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
