@@ -282,6 +282,10 @@ El diseño se basó en los wireframes y mock-ups creados durante la fase de dise
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
+Debido a que el sprint estuvo únicamente enfocado en el desarrollo de la Landing Page, no se desarrollaron servicios adicionales.
+Aunque no se implementaron servicios en este sprint, la landing page sirve como una plataforma informativa crucial para atraer y convertir usuarios potenciales.
+El desarrollo de servicios backend y funcionalidades adicionales está planificado para futuros sprints, donde se detallará la documentación correspondiente.
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
