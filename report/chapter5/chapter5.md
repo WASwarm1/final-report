@@ -83,6 +83,50 @@ El prefijo de categoría se define de la siguiente forma:
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
+Se adoptaron las siguientes guías y convenciones de estilo de código para asegurar la calidad y consistencia del código fuente, el idioma
+estándar para el desarrollo fue el **inglés**.
+
+#### Principios generales:
+
+* **Idioma estándar**: Inglés
+* **Legibilidad ante todo**: El código debe ser fácil de leer y entender.
+* **Consistencia**: Seguir las mismas convenciones en todo el proyecto.
+* **Nombres semánticos**: Utilizar nombres descriptivos para variables, funciones y clases. 
+Se usan **sustantivos** para clases y **verbos** para funciones.
+* **Indentación**: Usar 2 espacios para la indentación de HTML, CSS, JS y TS. 4 espacios para C#.
+
+#### HTML y CSS:
+
+#### HTML:
+
+* Archivos HTML deben tener la extensión `.html`.
+* Se incluye `alt` en todas las imágenes.
+* Usar comillas dobles para atributos.
+* Usar etiquetas semánticas (`<header>`, `<nav>`, `<main>`, `<footer>`, etc.).
+* Indentación de 2 espacios.
+
+#### CSS:
+
+* Archivos CSS deben tener la extensión `.css`.
+* Usar guiones para nombres de clases y IDs (e.g., `.main-header`).
+* Se agrupan estilos relacionados y se separan con comentarios.
+
+#### JavaScript y TypeScript:
+
+* Archivos JS deben tener la extensión `.js` y TS `.ts`.
+* Usar camelCase para nombres de variables y funciones.
+* Usar `PascalCase` para nombres de clases y componentes: `MyComponent`, `UserProfile`.
+* Usar `const` y `let` en lugar de `var`.
+* Usar funciones flecha y nombres explícitos.
+* Los archivos deben tener una unica responsabilidad (Single Responsibility Principle).
+
+#### C#:
+
+* Archivos C# deben tener la extensión `.cs`.
+* Usar `PascalCase` para nombres de clases, métodos y propiedades.
+* Usar `camelCase` para nombres de variables y parámetros.
+* Indentación de 4 espacios.
+
 ### 5.1.4. Software Deployment Configuration.
 
 ## 5.2. Landing Page, Services & Applications Implementation.
