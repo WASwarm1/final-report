@@ -35,6 +35,52 @@ responsabilidades y hacer seguimiento del progreso del proyecto.
 
 ### 5.1.2. Source Code Management.
 
+Para la gestion del código fuente se utilizó GitHub, una plataforma de alojamiento de código fuente y control de versiones utilizando Git.
+Se creó un repositorio en la organización de GitHub, donde se almacenó todo el código fuente del proyecto. 
+El repositorio se estructuró de la siguiente manera:
+
+* Organización en Github: https://github.com/WASwarm1
+* Repositorio del informe final: https://github.com/WASwarm1/final-report
+* Repositorio de la Landing Page: https://github.com/WASwarm1/Landing-Page
+
+#### Modelo de ramificación: GitFlow
+
+Se utilizó el modelo de ramificación GitFlow, el cual permite una gestión eficiente del desarrollo mediante ramas específicas para diferentes propósitos.
+
+Para el repositorio del informe final, se utilizó la siguiente estructura de ramas:
+
+* `main`: Rama principal que contiene la versión estable del informe.
+* `develop`: Rama de desarrollo donde se integran todas las características antes de ser fusionadas a `main`.
+* `chapter1`: Rama para el desarrollo del Capítulo I.
+* `chapter2`: Rama para el desarrollo del Capítulo II.
+* `chapter3`: Rama para el desarrollo del Capítulo III.
+* `chapter4`: Rama para el desarrollo del Capítulo IV.
+* `chapter5`: Rama para el desarrollo del Capítulo V.
+
+Para el repositorio de la Landing Page, se utilizó la siguiente estructura de ramas:
+
+* `main`: Rama principal que contiene la versión estable de la landing page.
+
+#### Estilo de commits: Conventional Commits
+
+Se adoptó la convención de commits "Conventional Commits" para mantener un historial de cambios claro y consistente.
+Los tipos de commits utilizados incluyen:
+
+* `feat`: Para nuevas características o funcionalidades.
+* `fix`: Para correcciones de errores.
+* `docs`: Para cambios en la documentación.
+* `refactor`: Para cambios en el código que no agregan ni corrigen funcionalidades.
+
+El prefijo de categoría se define de la siguiente forma:
+
+* `feat`: A new feature
+* `fix`: A bug fix
+* `docs`: Documentation only changes
+* `style`: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
+* `refactor`: A code change that neither fixes a bug nor adds a feature
+* `test`: Adding missing tests or correcting existing tests
+* `chore`: Changes to the build process or auxiliary tools and libraries such as documentation generation
+
 ### 5.1.3. Source Code Style Guide & Conventions.
 
 ### 5.1.4. Software Deployment Configuration.
