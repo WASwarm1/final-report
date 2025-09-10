@@ -83,7 +83,7 @@ fluida y responsiva.</td>
 |    US01    |  Ver descripción del producto   | W01 |      Diseñar wireframe de hero       | Crear wireframe de la sección principal con descripción del producto |         2          | Werner Lang |                      Done                      |
 |            |                                 | W02 |  Redactar contenido descriptivo      |       Escribir textos claros sobre funcionalidad y beneficios        |         3          | Werner Lang |                      Done                      |
 |            |                                 | W03 |       Desarrollar sección hero       |       Maquetar y codificar la sección principal de la landing        |         4          | Werner Lang |                      Done                      |
-|    US02    |   Conocer al equipo fundador    | W04 |   Recopilar información del equipo   |      Obtener fotos, nombres, roles y biografías de cada miembro      |         1          |      -      |                     To do                      |
+|    US02    |   Conocer al equipo fundador    | W04 |   Recopilar información del equipo   |      Obtener fotos, nombres, roles y biografías de cada miembro      |         1          | Werner Lang |                      Done                      |
 |            |                                 | W05 |     Diseñar tarjetas de miembros     |        Crear diseño de las tarjetas para mostrar información         |         2          | Werner Lang |                      Done                      |
 |            |                                 | W06 | Desarrollar sección "Sobre nosotros" |        Implementar página completa con información del equipo        |         3          | Werner Lang |                      Done                      |
 |    US03    |      Ver misión y visión        | W07 |       Redactar misión y visión       |          Definir y escribir la misión y visión de ChambaPro          |         2          | Werner Lang |                      Done                      |
@@ -108,9 +108,12 @@ Estos commits provienen del repositorio de la landing de la organización de Git
 
 Enlace al repositorio de la Landing Page: https://github.com/WASwarm1/Landing-Page
 
-| Repository           | Branch | Commit Id | Commit Message   | Commit Message Body | Commited on (Date) |
-|----------------------|--------|-----------|------------------|---------------------|--------------------|
-| WASwarm/Landing-Page | main   | c612997   | fix: Logo color  |                     | 9/9/2025           |
+| Repository           | Branch | Commit Id | Commit Message                      | Commit Message Body | Commited on (Date) |
+|----------------------|--------|-----------|-------------------------------------|---------------------|--------------------|
+| WASwarm/Landing-Page | main   | c612997   | fix: Logo color                     |                     | 9/9/2025           |
+| WASwarm/Landing-Page | main   | 996ddc5   | feat(landing): add technicians page |                     | 10/9/2025          |
+| WASwarm/Landing-Page | main   | 0ba8c74   | feat(landing): add about us page    |                     | 10/9/2025          |
+| WASwarm/Landing-Page | main   | 7a5a95e   | feat(landing): add our team page    |                     | 10/9/2025          |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
