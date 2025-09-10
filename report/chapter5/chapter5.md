@@ -149,6 +149,23 @@ un servicio de alojamiento web estático proporcionado por GitHub.
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
+En esta sección se detalla la implementación de todos los estables de ChambaPro.
+
+#### Landing Page:
+
+La landing page fue desarrollada utilizando HTML, CSS y JavaScript; y fue diseñada para ser responsiva y adaptarse a diferentes dispositivos.
+El diseño se basó en los wireframes y mock-ups creados durante la fase de diseño UX/UI y fue desplegada utilizando GitHub Pages.
+
+La landing page incluye las siguientes secciones principales:
+* Home: Sección principal con una descripción del producto y un llamado a la acción.
+![Home_LandingPage.png](../../assets/chapter5/Home_LandingPage.png)
+* About Us: Información sobre el equipo fundador, misión y visión.
+![AboutUs_LandingPage.png](../../assets/chapter5/AboutUs_LandingPage.png)
+* Our Team: Presentación de los miembros del equipo con sus roles y biografías.
+![OurTeam_LandingPage.png](../../assets/chapter5/OurTeam_LandingPage.png)
+* For Technicians: Beneficios y características para profesionales técnicos.
+![ForTechnicians_LandingPage.png](../../assets/chapter5/ForTechnicians_LandingPage.png)
+
 ### 5.2.1. Sprint 1
 
 #### 5.2.1.1. Sprint Planning 1.
