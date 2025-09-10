@@ -271,6 +271,15 @@ Enlace al repositorio de la Landing Page: https://github.com/WASwarm1/Landing-Pa
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
+Este sprint estuvo únicamente enfocado en el desarrollo de la Landing Page.
+La landing page fue desarrollada utilizando HTML, CSS y JavaScript; y fue diseñada para ser responsiva y adaptarse a diferentes dispositivos.
+El diseño se basó en los wireframes y mock-ups creados durante la fase de diseño UX/UI y fue desplegada utilizando GitHub Pages.
+
+![Home_LandingPage.png](../../assets/chapter5/Home_LandingPage.png)
+![AboutUs_LandingPage.png](../../assets/chapter5/AboutUs_LandingPage.png)
+![OurTeam_LandingPage.png](../../assets/chapter5/OurTeam_LandingPage.png)
+![ForTechnicians_LandingPage.png](../../assets/chapter5/ForTechnicians_LandingPage.png)
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
