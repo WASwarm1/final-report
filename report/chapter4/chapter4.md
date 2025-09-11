@@ -144,11 +144,21 @@ En esta sección se muestra el diseño del login de la aplicación web, con opci
 
 ![Login.png](../../assets/chapter4/Login.png)
 
-**Sign Up - ChambaPro**     
+**Sign Up - ChambaPro**        
 En esta sección se muestra el diseño del Sign Up de la aplicación web, con opciones para iniciar sesión como cliente.
 
 ![Sign Up.png](../../assets/chapter4/Sign%20Up.png)
 
+**Buscar Tecnico**   
+En esta seccion se muestra una de las partes mas fundamentales de la aplicacion web, con opciones para poder buscar y filtrar la busqueda por servicio especifico, nombre del tecnico y por ubicacion.
+Ademas se puede observar previamente el perfil del tecnico, su especialidad, cantidad de reseñas y un parrafo de presentacion donde cuenta su experiencia y sus servicios.
+
+![SearchTechnicians.png](../../assets/chapter4/SearchTechnicians.png)
+
+**Historial de Servicios**  
+En esta sección se muestra el historial de servicios realizados, con la opción de ver detalles de cada fecha, tecnico, el costo del mismo y el estado de este.
+
+![ServiceHistory.png](../../assets/chapter4/ServiceHistory.png)
 
 
 ### 4.4.3. Web Applications User Flow Diagrams.
