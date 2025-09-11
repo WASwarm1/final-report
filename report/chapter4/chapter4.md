@@ -129,13 +129,16 @@ usuario en la plataforma.
 ### 4.3.2. Landing Page Mock-up.
 
 ## 4.4. Web Applications UX/UI Design.
-
+El objetivo de esta sección Web Applications UX/UI Design es detallar el enfoque y las estrategias utilizadas en el diseño de la experiencia y la interfaz de usuario para la aplicación web. 
+Se busca explicar cómo las decisiones tomadas en términos de diseño visual y funcionalidad contribuyen a mejorar la usabilidad, accesibilidad y satisfacción del usuario final. 
+Además, se pretende mostrar cómo estos elementos de diseño ayudan a cumplir los objetivos comerciales del proyecto, asegurando una interacción fluida y eficiente para los usuarios en diferentes dispositivos.
 ### 4.4.1. Web Application Wireframes.
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
 ### 4.4.2. Web Applications Mock-ups.
-
+En esta sección se muestra el diseño del login de la aplicación web, con opciones para iniciar sesión como cliente.
+![Login.png](../../assets/chapter4/Login.png)
 ### 4.4.3. Web Applications User Flow Diagrams.
 
 ## 4.5. Web Applications Prototyping.
