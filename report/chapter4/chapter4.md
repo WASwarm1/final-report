@@ -188,6 +188,10 @@ Diagrama de componente de analiticas:
 
 ### 4.7.1. Class Diagrams.
 
+Aquí se presenta el diagrama de clases de ChambaPro. Este diagrama ilustra las entidades y sus relaciones, proporcionando una visión clara de la estructura del software.
+
+![class_diagram.png](../../assets/chapter4/class_diagram.png)
+
 ### 4.7.2. Class Dictionary.
 
 ## 4.8. Database Design.
