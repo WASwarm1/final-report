@@ -183,9 +183,11 @@ En esta sección se muestra el diseño del panel de estadisticas de la aplicaci�
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 
-
+![Web Application User Flow Diagram.png](../../assets/chapter4/Web%20Application%20User%20Flow%20Diagram.png)
 
 ## 4.5. Web Applications Prototyping.
+
+[![Alt text](https://img.youtube.com/vi/Vb27akyoaTk/0.jpg)](https://www.youtube.com/watch?v=Vb27akyoaTk)
 
 ## 4.6. Domain-Driven Software Architecture.
 
