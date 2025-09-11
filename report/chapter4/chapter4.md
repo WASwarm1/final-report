@@ -138,7 +138,14 @@ Además, se pretende mostrar cómo estos elementos de diseño ayudan a cumplir l
 
 ### 4.4.2. Web Applications Mock-ups.
 En esta sección se muestra el diseño del login de la aplicación web, con opciones para iniciar sesión como cliente.
+
 ![Login.png](../../assets/chapter4/Login.png)
+
+En esta sección se muestra el diseño del Sign Up de la aplicación web, con opciones para iniciar sesión como cliente.
+
+![Sign Up.png](../../assets/chapter4/Sign%20Up.png)
+
+
 ### 4.4.3. Web Applications User Flow Diagrams.
 
 ## 4.5. Web Applications Prototyping.
