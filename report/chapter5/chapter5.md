@@ -309,6 +309,16 @@ en diferentes dispositivos y navegadores en la siguiente URL:
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
+En esta sección se presentan las evidencias de colaboración del equipo durante el sprint 1 para el desarrollo de la landing page.
+
+Cada miembro del equipo tuvo roles específicos, pero todos colaboraron en la planificación, desarrollo y revisión del trabajo.
+A continuación, se muestran algunos insights del repositorio de GitHub:
+
+* **Werner Lang:** Implementó el home, about us, our team, for technicians, terms, footer y header.
+* **Matias Armestar:** Se encargó de la página de contact y services.
+
+![Team_Collaboration_Sprint1.png](../../assets/chapter5/Team_Collaboration_Sprint1.png)
+
 ## 5.3. Validation Interviews.
 
 ### 5.3.1. Diseño de Entrevistas.
