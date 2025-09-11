@@ -155,7 +155,7 @@ En el diagrama de contenedores que corresponde al segundo nivel del C4, ofrece u
 Descripción más precisa de los componentes técnicos, lo que ayuda a una visión más
 amplia de la arquitectura de software.
 
-![Container_Diagram.png](../../assets/chapter4/Container_Diagram.png)
+![Conatiner_Diagram.png](../../assets/chapter4/Conatiner_Diagram.png)
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
