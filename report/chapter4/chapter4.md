@@ -312,3 +312,5 @@ A continuación, se presenta un diccionario de clases que describe las entidades
 ## 4.8. Database Design.
 
 ### 4.8.1. Database Diagram.
+
+![database_diagram.png](../../assets/chapter4/database_diagram.png)
