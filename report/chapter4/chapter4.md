@@ -194,6 +194,121 @@ Aquí se presenta el diagrama de clases de ChambaPro. Este diagrama ilustra las 
 
 ### 4.7.2. Class Dictionary.
 
+A continuación, se presenta un diccionario de clases que describe las entidades y sus atributos, así como los métodos asociados a cada una.
+
+### Usuario (clase padre)
+**Atributos:**
+- idUsuario: int
+- nombre: string
+- apellido: string
+- email: string
+- telefono: string
+- direccion: string
+- contraseña: string
+
+**Métodos:**
+- registrar()
+- iniciarSesion()
+- cerrarSesion()
+- editarPerfil()
+
+---
+
+### Cliente (hereda de Usuario)
+**Atributos:**
+- metodoPagoPreferido: string
+- historialContrataciones: List<Contratacion>
+
+**Métodos:**
+- buscarServicio()
+- contratarTecnico(tecnico: Tecnico, servicio: Servicio)
+- calificarServicio(contratacion: Contratacion, puntaje: int, comentario: string)
+
+---
+
+### Técnico (hereda de Usuario)
+**Atributos:**
+- especialidad: string
+- experiencia: string
+- tarifaPorHora: double
+- disponibilidad: string
+- historialServicios: List<Contratacion>
+
+**Métodos:**
+- ofrecerServicio(servicio: Servicio)
+- actualizarDisponibilidad()
+- aceptarContratacion(contratacion: Contratacion)
+
+---
+
+### Servicio
+**Atributos:**
+- idServicio: int
+- nombre: string
+- descripcion: string
+- precioBase: double
+
+**Métodos:**
+- mostrarDetalle()
+- actualizarPrecio(nuevoPrecio: double)
+
+---
+
+### Contratacion
+**Atributos:**
+- idContratacion: int
+- cliente: Cliente
+- tecnico: Tecnico
+- servicio: Servicio
+- fecha: Date
+- estado: string
+- montoTotal: double
+
+**Métodos:**
+- actualizarEstado(nuevoEstado: string)
+- calcularMonto()
+
+---
+
+### Chat
+**Atributos:**
+- idChat: int
+- participantes: List<Usuario>
+- mensajes: List<Mensaje>
+
+**Métodos:**
+- enviarMensaje(usuario: Usuario, texto: string)
+- mostrarHistorial()
+
+---
+
+### Mensaje
+**Atributos:**
+- idMensaje: int
+- remitente: Usuario
+- contenido: string
+- fechaEnvio: Date
+
+**Métodos:**
+- editarMensaje(nuevoContenido: string)
+- eliminarMensaje()
+
+---
+
+### Pago
+**Atributos:**
+- idPago: int
+- contratacion: Contratacion
+- monto: double
+-metodo: string
+- fechaPago: Date
+- estado: string
+
+**Métodos:**
+- procesarPago()
+- validarPago()
+- reembolsar()
+
 ## 4.8. Database Design.
 
 ### 4.8.1. Database Diagram.
