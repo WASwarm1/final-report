@@ -149,6 +149,11 @@ En esta sección se muestra el diseño del Sign Up de la aplicación web, con op
 
 ![Sign Up.png](../../assets/chapter4/Sign%20Up.png)
 
+**Verificacion de Tecnicos**               
+En esta sección se muestra el diseño de la verificacion de la aplicación web, con opciones para ingresar datos como los nombres, apellidos, email, Documento de indentidad(DNI), telefono, razon social, RUC, ademas la opcion de dejar marcado las zonas de trabajo preferidas y su categoria y empecialidad que desempeñe como tecnico.
+
+![Verification.png](../../assets/chapter4/Verification.png)
+
 **Buscar Tecnico**   
 En esta seccion se muestra una de las partes mas fundamentales de la aplicacion web, con opciones para poder buscar y filtrar la busqueda por servicio especifico, nombre del tecnico y por ubicacion.
 Ademas se puede observar previamente el perfil del tecnico, su especialidad, cantidad de reseñas y un parrafo de presentacion donde cuenta su experiencia y sus servicios.
@@ -159,6 +164,21 @@ Ademas se puede observar previamente el perfil del tecnico, su especialidad, can
 En esta sección se muestra el historial de servicios realizados, con la opción de ver detalles de cada fecha, tecnico, el costo del mismo y el estado de este.
 
 ![ServiceHistory.png](../../assets/chapter4/ServiceHistory.png)
+
+**Perfil del Tecnico**        
+En esta seccion se muestra el perfil del tecnico mas las reseñas que dejan los clientes, con la opción de dejar tu reseña y de poder contratar al tecnico con un CTA.
+
+![Reviews.png](../../assets/chapter4/Reviews.png)
+
+**Agenda de Reservaciones**     
+En esta sección se muestra el diseño de la Agenda de Reservaciones de la aplicación web, con opcion de visualizar una agenda en filas que dice las fechas que tiene un trabajo especifico que tiene como tecnico.
+
+![ReservationAgenda.png](../../assets/chapter4/ReservationAgenda.png)
+
+**Panel de Estadisticas**              
+En esta sección se muestra el diseño del panel de estadisticas de la aplicación web, con opcion de visualizar 3 tipos de graficos, lo cuales son los ingresos totales, la calificaion promedio, servicios completados como tecnico.
+
+![Statistics.png](../../assets/chapter4/Statistics.png)
 
 
 ### 4.4.3. Web Applications User Flow Diagrams.
