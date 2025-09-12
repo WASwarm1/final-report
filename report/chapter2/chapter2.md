@@ -254,6 +254,40 @@ estabilidad laboral, pero le cuesta encontrar trabajo constante y lidiar con cli
 
 ### 2.3.2. User Task Matrix.
 
+
+
+| Actividades                         | María Elena (Cliente) - Frecuencia / Importancia | Carlos Mendoza (Técnico) - Frecuencia / Importancia |
+|-------------------------------------|--------------------------------------------------|-----------------------------------------------------|
+| Buscar técnicos                     | Con Frecuencia / Alta                            | N/A / N/A                                           |
+| Evaluar perfiles y calificaciones   | Siempre / Alta                                   | N/A / N/A                                           |
+| Solicitar servicios                 | Con Frecuencia / Alta                            | N/A / N/A                                           |
+| Comunicarse con técnicos via chat   | Siempre / Alta                                   | N/A / N/A                                           |
+| Agendar citas                       | Siempre / Alta                                   | Siempre / Alta                                      |
+| Confirmar detalles del servicio     | Siempre / Alta                                   | Siempre / Alta                                      |
+| Recibir técnicos en casa            | Siempre / Alta                                   | N/A / N/A                                           |
+| Supervisar trabajo realizado        | Siempre / Alta                                   | N/A / N/A                                           |
+| Realizar pagos                      | Siempre / Alta                                   | N/A / N/A                                           |
+| Calificar servicios                 | Siempre / Media                                  | Rara vez / Baja                                     |
+| Escribir reseñas                    | Con Frecuencia / Media                           | N/A / N/A                                           |
+| Gestionar perfil personal           | Rara vez / Media                                 | Con Frecuencia / Alta                               |
+| Actualizar disponibilidad           | N/A / N/A                                        | Siempre / Alta                                      |
+| Aceptar/rechazar solicitudes        | N/A / N/A                                        | Siempre / Alta                                      |
+| Ejecutar servicios técnicos         | N/A / N/A                                        | Siempre / Alta                                      |
+| Gestionar agenda de trabajo         | N/A / N/A                                        | Siempre / Alta                                      |
+| Revisar ingresos y métricas         | N/A / N/A                                        | Con Frecuencia / Alta                               |
+| Subir fotos de trabajos             | N/A / N/A                                        | Con Frecuencia / Media                              |
+| Actualizar portafolio               | N/A / N/A                                        | Con Frecuencia / Media                              |
+| Gestionar herramientas y materiales | N/A / N/A                                        | Siempre / Alta                                      |
+| Contactar soporte de plataforma     | Rara vez / Alta                                  | Rara vez / Alta                                     |
+| Guardar técnicos concurrentes       | Con Frecuencia / Media                           | N/A / N/A                                           |
+| Programar servicios recurrentes     | Con Frecuencia / Alta                            | Con Frecuencia / Media                              |
+| Verificar antecedentes              | Rara vez / Alta                                  | Rara vez / Alta                                     |
+| Capacitarse en uso de plataforma    | Rara vez / Media                                 | Con Frecuencia / Media                              |
+| Recomendar plataforma a otros       | Con Frecuencia / Media                           | Con Frecuencia / Media                              |
+| Gestionar métodos de pago           | Con Frecuencia / Media                           | Con Frecuencia / Media                              |
+| Resolver disputas o reclamos        | Rara vez / Alta                                  | Rara vez / Alta                                     |
+| Mantener comunicación post-servicio | Con Frecuencia / Media                           | Con Frecuencia / Media                              |
+
 ### 2.3.3. User Journey Mapping.
 
 En esta sección se presentan los User Journey Maps en su versión As-Is, uno por cada User Persona definida. 
