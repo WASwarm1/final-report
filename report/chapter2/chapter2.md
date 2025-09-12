@@ -281,6 +281,8 @@ Los empathy maps están directamente vinculados a los arquetipos previamente def
 
 #### Segmento 1: Clientes
 
+![Empathy map_Cliente.png](../../assets/chapter2/Empathy%20map_Cliente.png)
+
 #### Semento 2: Técnicos
 
 ![Empathy map- Tecnico.png](../../assets/chapter2/Empathy%20map-%20Tecnico.png)
