@@ -141,7 +141,23 @@ Es una marca consolidada en España y con gran penetración en mercados latinoam
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
+#### Fortalezas y Oportunidades:
+La principal fortaleza de ChambaPro es la confianza que brinda a los usuarios mediante la validación de las habilidades de los técnicos, así como la facilidad de contacto directo sin intermediarios innecesarios. Este valor diferencial permite posicionarse frente a competidores como Home Solution, que carece de mecanismos sólidos de verificación, o frente a Habitissimo, que centra su modelo en leads pagos.
+*  Oportunidad: El mercado peruano y latinoamericano aún presenta baja digitalización en la contratación de técnicos para el hogar, lo cual genera un espacio ideal para que ChambaPro se consolide como un referente nacional y, posteriormente, regional. Esta oportunidad puede potenciarse mediante un plan de expansión gradual y una estrategia de confianza que combine calificaciones, reseñas y certificaciones verificables.
 
+#### Aprovechamiento de Debilidades y Amenazas de los Competidores:
+Competidores como Homify no aseguran la concreción de servicios, ya que su propuesta está más enfocada en inspiración que en ejecución, lo que deja un vacío para quienes buscan soluciones prácticas y rápidas. ChambaPro puede aprovechar esta debilidad promoviendo su enfoque en resultados tangibles y en la contratación efectiva de técnicos.
+En el caso de Home Solution, la ausencia de filtros rigurosos para validar a los profesionales puede generar desconfianza. Aquí, ChambaPro debe posicionarse como una alternativa más segura, ofreciendo un sistema transparente de validación, reputación y reseñas.
+*  Amenaza del entorno competitivo: La preferencia de los usuarios por técnicos de confianza previamente conocidos. Para mitigar este riesgo, ChambaPro debe implementar campañas de fidelización y programas de recomendación, incentivando a los usuarios a contratar nuevamente dentro de la plataforma y a recomendar técnicos con buenas calificaciones.
+
+#### Estrategias de Marketing:
+Se recomienda utilizar una estrategia de marketing digital segmentada, enfocada en hogares y técnicos en el Perú, destacando la comodidad, la seguridad y la competitividad de la plataforma frente a alternativas internacionales o poco personalizadas.
+Las campañas deben incluir testimonios de clientes satisfechos y casos de éxito que generen credibilidad.
+Otro punto clave es simplificar la experiencia de usuario: una interfaz clara y accesible que permita solicitar un servicio en pocos pasos, reforzando el valor de inmediatez frente a procesos más engorrosos de otros competidores.
+
+#### Costos y Precios:
+La estructura de precios debe mantenerse flexible y atractiva, basada en acuerdos directos entre usuarios y técnicos, lo que otorga autonomía y evita costos ocultos para los clientes. Esto representa una ventaja frente a modelos como Habitissimo, que carga con costos por leads.
+Se recomienda establecer planes de monetización escalables, que incluyan desde opciones gratuitas para atraer profesionales independientes hasta planes premium con beneficios como mayor visibilidad, certificaciones destacadas y soporte preferencial.
 ## 2.2. Entrevistas.
 
 ### 2.2.1. Diseño la entrevistas.
