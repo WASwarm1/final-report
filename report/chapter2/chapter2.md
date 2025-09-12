@@ -227,6 +227,114 @@ preferencia, dispositivos de uso, etc.
 
 ### 2.2.2. Registro de entrevistas.
 
+#### Segmento 1: Clientes
+
+- _Entrevista 1:_ 
+
+| Nombre               |                        |
+|----------------------|------------------------|
+| Apellido             |                        |
+| Edad                 |                        |
+| Distrito             |                        |
+| Evidencia            |                        |
+| Url                  |                        |
+| Inicio de entrevista |                        |    
+| Fin de entrevista    |                        |
+
+- Distrito de residencia: 
+- Estado civil: 
+- Ocupación: 
+- Dispositivo de preferencia: 
+- Canales de interacción digital:
+
+Resumen:
+
+- _Entrevista 2:_
+
+
+| Nombre               |                        |
+|----------------------|------------------------|
+| Apellido             |                        |
+| Edad                 |                        |
+| Distrito             |                        |
+| Evidencia            |                        |
+| Url                  |                        |
+| Inicio de entrevista |                        |    
+| Fin de entrevista    |                        |
+
+- Distrito de residencia:
+- Estado civil:
+- Ocupación:
+- Dispositivo de preferencia:
+- Canales de interacción digital:
+
+Resumen:
+
+- _Entrevista 3:_
+
+
+| Nombre               |                        |
+|----------------------|------------------------|
+| Apellido             |                        |
+| Edad                 |                        |
+| Distrito             |                        |
+| Evidencia            |                        |
+| Url                  |                        |
+| Inicio de entrevista |                        |    
+| Fin de entrevista    |                        |
+
+- Distrito de residencia:
+- Estado civil:
+- Ocupación:
+- Dispositivo de preferencia:
+- Canales de interacción digital:
+
+Resumen:
+
+#### Segmento 2: Técnicos
+
+- _Entrevista 1:_
+
+| Nombre               |                        |
+|----------------------|------------------------|
+| Apellido             |                        |
+| Edad                 |                        |
+| Distrito             |                        |
+| Evidencia            |                        |
+| Url                  |                        |
+| Inicio de entrevista |                        |    
+| Fin de entrevista    |                        |
+
+- Distrito de residencia:
+- Estado civil:
+- Ocupación:
+- Dispositivo de preferencia:
+- Canales de interacción digital:
+
+Resumen:
+
+- _Entrevista 2:_
+
+
+| Nombre               |                        |
+|----------------------|------------------------|
+| Apellido             |                        |
+| Edad                 |                        |
+| Distrito             |                        |
+| Evidencia            |                        |
+| Url                  |                        |
+| Inicio de entrevista |                        |    
+| Fin de entrevista    |                        |
+
+- Distrito de residencia:
+- Estado civil:
+- Ocupación:
+- Dispositivo de preferencia:
+- Canales de interacción digital:
+
+Resumen:
+
+
 ### 2.2.3. Análisis de entrevistas.
 
 ## 2.3. Needfinding.
