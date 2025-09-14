@@ -126,6 +126,7 @@ usuario en la plataforma.
 
 ![LandingPageWireframe.jpg](../../assets/chapter4/LandingPageWireframe.jpg)
 
+
 ### 4.3.2. Landing Page Mock-up.
 
 ## 4.4. Web Applications UX/UI Design.
