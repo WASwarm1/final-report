@@ -125,9 +125,16 @@ usuario en la plataforma.
 ### 4.3.1. Landing Page Wireframe.
 
 ![LandingPageWireframe.jpg](../../assets/chapter4/LandingPageWireframe.jpg)
-
+![landing wireframe 2.png](../../assets/chapter4/landing%20wireframe%202.png)
+![landing wireframe 3.png](../../assets/chapter4/landing%20wireframe%203.png)
+![landing wireframe 4.png](../../assets/chapter4/landing%20wireframe%204.png)
 
 ### 4.3.2. Landing Page Mock-up.
+
+![mockup landing 1.png](../../assets/chapter4/mockup%20landing%201.png)
+![landing mock up 2.png](../../assets/chapter4/landing%20mock%20up%202.png)
+![landing mockup 3 .png](../../assets/chapter4/landing%20mockup%203%20.png)
+![landing mockup 4.png](../../assets/chapter4/landing%20mockup%204.png)
 
 ## 4.4. Web Applications UX/UI Design.
 El objetivo de esta sección Web Applications UX/UI Design es detallar el enfoque y las estrategias utilizadas en el diseño de la experiencia y la interfaz de usuario para la aplicación web. 
