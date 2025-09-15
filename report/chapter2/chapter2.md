@@ -2,45 +2,468 @@
 
 ## 2.1. Competidores.
 
+En esta sección se identifican y describen los principales competidores de ChambaPro, tanto aquellos que actúan de manera directa en el mismo segmento de servicios técnicos como los que se ubican en sectores relacionados, como el diseño, mantenimiento y remodelación de hogares. El objetivo de este análisis es mostrar cómo se posiciona cada alternativa en el mercado y en qué medida se diferencian de la propuesta de ChambaPro.
+
+Homify
+Es una plataforma con presencia internacional cuyo enfoque está orientado a la inspiración en proyectos de vivienda y decoración. Se centra en conectar a los usuarios con profesionales de arquitectura y diseño, utilizando contenido visual atractivo como fotografías, revistas digitales y consejos de bricolaje. Aunque permite el contacto entre especialistas y clientes, su propuesta no asegura una conversión directa hacia proyectos contratados.
+
+Home Solution
+Se trata de un marketplace digital presente en distintos países de Latinoamérica que permite a los usuarios publicar sus necesidades relacionadas con reparaciones, mantenimiento o mejoras en el hogar. A partir de ello, los clientes reciben múltiples presupuestos de diferentes técnicos en un corto plazo. Su ventaja radica en la rapidez del proceso, aunque presenta limitaciones en cuanto a la validación de la experiencia y credenciales de los profesionales que participan en la plataforma.
+
+Habitissimo
+Es una marca consolidada en España y con gran penetración en mercados latinoamericanos, especializada en proyectos de construcción y remodelación. Su modelo de negocio consiste en que los profesionales pagan por acceder a oportunidades de clientes (leads), lo que ha permitido generar una amplia base de especialistas y una comunidad activa. Sin embargo, este esquema puede resultar poco atractivo para técnicos independientes o con menos recursos, debido al costo que implica participar.
+
 ### 2.1.1. Análisis competitivo.
 
-| **Categoría** | **Aspecto** | **1** | **C1** | **C2** | **C3** |
-|---------------|-------------|-------|--------|------------------|------------------|
-| **Perfil** | **Overview**  |       |        | | |
-| | **Ventaja competitiva** <br/>¿Qué valor agregado ofrecen a sus clientes? |       |        | | |
-| **Perfil de Marketing** | **Mercado objetivo** |       |        | | |
-| | **Estrategias de marketing** |       |        | | |
-| **Perfil de Producto** | **Productos & Servicios** |       |        | | |
-| | **Precios & Costos** |       |        | | |
-| | **Canales de distribución** <br/>(Web y/o Móvil) |       |        | | |
+<table border="1" cellspacing="0" cellpadding="5">
+  <!-- Título principal -->
+  <tr>
+    <th colspan="6">Competitive Analysis Landscape</th>
+  </tr>
 
-| **Análisis SWOT** | **1** | **C1** | **C2** | **C3** |
-|-------------------|-------|------------------|------------------|------------------|
-| **Fortalezas** |       | | | |
-| **Debilidades** |       | | | |
-| **Oportunidades** |       | | | |
-| **Amenazas** |       | | | |
+  <!-- Explicación -->
+  <tr>
+    <th>¿Por qué llevar a cabo este análisis?</th>
+    <td colspan="5">
+      Este análisis se lleva a cabo con la finalidad de poder conocer las diferentes soluciones ya existentes y cómo ChambaPro se diferencia y podría mostrarse como una mejor opción ante estas.
+    </td>
+  </tr>
+
+  <!-- Encabezados competidores con imágenes -->
+  <tr>
+    <th colspan="2">Competidores</th>
+    <th>
+      ChambaPro<br>
+      <img src="/assets/chapter2/chamba_pro_logo.png" alt="ChambaPro" width="100">
+    </th>
+    <th>
+      Homify<br>
+      <img src="/assets/chapter2/homify_logo.png" alt="Homify" width="100">
+    </th>
+    <th>
+      Home Solution<br>
+      <img src="/assets/chapter2/home_solution_logo.png" alt="Home Solution" width="100">
+    </th>
+    <th>
+      Habitissimo<br>
+      <img src="/assets/chapter2/habitissimo_logo.png" alt="Habitissimo" width="100">
+    </th>
+  </tr>
+
+  <!-- PERFIL -->
+  <tr>
+    <th rowspan="2">Perfil</th>
+    <th>Overview</th>
+    <td>Marketplace peruano en el cual se puede solicitar servicios de personal técnico calificado, como gasfiteros, electricistas, cerrajeros y más.</td>
+    <td>Plataforma internacional enfocada en inspiración para el hogar y conexión con profesionales de arquitectura, diseño y decoración. Ofrece contenido visual (ideas, fotos, revistas, DIY) y un directorio de especialistas.</td>
+    <td>Marketplace latinoamericano para solicitar servicios de mantenimiento, reparación y mejoras en el hogar. El usuario describe su necesidad y recibe varias propuestas de profesionales en pocas horas.</td>
+    <td>Plataforma consolidada en España y Latinoamérica para pedir presupuestos y comparar profesionales de construcción, remodelación, etc. Modelo basado en leads que pagan los profesionales.</td>
+  </tr>
+  <tr>
+    <th>Ventaja competitiva<br>¿Qué valor ofrece a los clientes?</th>
+    <td>Confianza, competitividad, comodidad</td>
+    <td>Inspiración visual; registro gratuito</td>
+    <td>Respuesta rápida, sin intermediarios</td>
+    <td>Marca fuerte; leads competitivos</td>
+  </tr>
+
+  <!-- PERFIL DE MARKETING -->
+  <tr>
+    <th rowspan="2">Perfil de Marketing</th>
+    <th>Mercado objetivo</th>
+    <td>Hogares y técnicos del Perú</td>
+    <td>Usuarios buscando diseño; profesionales</td>
+    <td>Hogares en Sudamérica</td>
+    <td>Hogares y profesionales de reformas</td>
+  </tr>
+  <tr>
+    <th>Estrategias de marketing</th>
+    <td>Visibilidad y estética</td>
+    <td>Contenido editorial y app</td>
+    <td>Blog educativo</td>
+    <td>Directorio, comunidad, reputación</td>
+  </tr>
+
+  <!-- PERFIL DE PRODUCTO -->
+  <tr>
+    <th rowspan="3">Perfil de Producto</th>
+    <th>Productos & Servicios</th>
+    <td>Contacto directo entre dueño y técnico</td>
+    <td>Ideas, inspiración, contacto gratis</td>
+    <td>Solicitudes, propuestas, chat</td>
+    <td>Presupuestos, directorio, comunidad, guía</td>
+  </tr>
+  <tr>
+    <th>Precios & Costos</th>
+    <td>Acordado entre dueño y técnico</td>
+    <td>Gratuito; Premium no detallado</td>
+    <td>No detallado</td>
+    <td>Gratis registro, leads/planes pagos</td>
+  </tr>
+  <tr>
+    <th>Canales de distribución<br>(Web y/o Móvil)</th>
+    <td>Web nacional</td>
+    <td>Web internacional, app móvil</td>
+    <td>Web regional</td>
+    <td>Web internacional</td>
+  </tr>
+
+  <!-- ANÁLISIS SWOT -->
+  <tr>
+    <th rowspan="4">Análisis SWOT</th>
+    <th>Fortalezas</th>
+    <td>Validación de las habilidades de los técnicos</td>
+    <td>Presencia internacional con marca reconocida en diseño y decoración.</td>
+    <td>Proceso ágil: el cliente recibe varias propuestas en pocas horas.</td>
+    <td>Marca muy consolidada en España y Latinoamérica.</td>
+  </tr>
+  <tr>
+    <th>Debilidades</th>
+    <td>Falta de reconocimiento del público y certificaciones de prestigio.</td>
+    <td>No garantiza clientes, solo conecta con profesionales (conversión incierta).</td>
+    <td>Falta de visibilidad sobre la validación o certificación de profesionales.</td>
+    <td>Los leads tienen costo, lo que desincentiva a profesionales pequeños.</td>
+  </tr>
+  <tr>
+    <th>Oportunidades</th>
+    <td>Expansión de cobertura hacia otros países, principalmente sudamérica.</td>
+    <td>Monetización más clara para profesionales (paquetes, suscripciones).</td>
+    <td>Implementar sistema de reputación, reseñas y verificación de profesionales.</td>
+    <td>Generar alianzas con marcas de materiales o ferreterías.</td>
+  </tr>
+  <tr>
+    <th>Amenazas</th>
+    <td>Posibilidad de preferencia de usuarios hacia técnicos ya conocidos.</td>
+    <td>Mercado fragmentado con alternativas locales fuertes.</td>
+    <td>Posible desconfianza de usuarios al no haber filtros sólidos de calidad.</td>
+    <td>Competencia de otras plataformas de leads más económicas.</td>
+  </tr>
+</table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
+#### Fortalezas y Oportunidades:
+La principal fortaleza de ChambaPro es la confianza que brinda a los usuarios mediante la validación de las habilidades de los técnicos, así como la facilidad de contacto directo sin intermediarios innecesarios. Este valor diferencial permite posicionarse frente a competidores como Home Solution, que carece de mecanismos sólidos de verificación, o frente a Habitissimo, que centra su modelo en leads pagos.
+*  Oportunidad: El mercado peruano y latinoamericano aún presenta baja digitalización en la contratación de técnicos para el hogar, lo cual genera un espacio ideal para que ChambaPro se consolide como un referente nacional y, posteriormente, regional. Esta oportunidad puede potenciarse mediante un plan de expansión gradual y una estrategia de confianza que combine calificaciones, reseñas y certificaciones verificables.
 
+#### Aprovechamiento de Debilidades y Amenazas de los Competidores:
+Competidores como Homify no aseguran la concreción de servicios, ya que su propuesta está más enfocada en inspiración que en ejecución, lo que deja un vacío para quienes buscan soluciones prácticas y rápidas. ChambaPro puede aprovechar esta debilidad promoviendo su enfoque en resultados tangibles y en la contratación efectiva de técnicos.
+En el caso de Home Solution, la ausencia de filtros rigurosos para validar a los profesionales puede generar desconfianza. Aquí, ChambaPro debe posicionarse como una alternativa más segura, ofreciendo un sistema transparente de validación, reputación y reseñas.
+*  Amenaza del entorno competitivo: La preferencia de los usuarios por técnicos de confianza previamente conocidos. Para mitigar este riesgo, ChambaPro debe implementar campañas de fidelización y programas de recomendación, incentivando a los usuarios a contratar nuevamente dentro de la plataforma y a recomendar técnicos con buenas calificaciones.
+
+#### Estrategias de Marketing:
+Se recomienda utilizar una estrategia de marketing digital segmentada, enfocada en hogares y técnicos en el Perú, destacando la comodidad, la seguridad y la competitividad de la plataforma frente a alternativas internacionales o poco personalizadas.
+Las campañas deben incluir testimonios de clientes satisfechos y casos de éxito que generen credibilidad.
+Otro punto clave es simplificar la experiencia de usuario: una interfaz clara y accesible que permita solicitar un servicio en pocos pasos, reforzando el valor de inmediatez frente a procesos más engorrosos de otros competidores.
+
+#### Costos y Precios:
+La estructura de precios debe mantenerse flexible y atractiva, basada en acuerdos directos entre usuarios y técnicos, lo que otorga autonomía y evita costos ocultos para los clientes. Esto representa una ventaja frente a modelos como Habitissimo, que carga con costos por leads.
+Se recomienda establecer planes de monetización escalables, que incluyan desde opciones gratuitas para atraer profesionales independientes hasta planes premium con beneficios como mayor visibilidad, certificaciones destacadas y soporte preferencial.
 ## 2.2. Entrevistas.
 
 ### 2.2.1. Diseño la entrevistas.
 
+A continuación, se presentan las preguntas para las entrevistas de cada sección. 
+A demás, con la finalidad de no extender el tiempo de las entrevistas y facilitar información gráfica. 
+Haciendo uso de la herramienta Fillout hemos recolectado información personal como por ejemplo las marcas de 
+preferencia, dispositivos de uso, etc.
+
+#### Preguntas para el segmento "Clientes"
+
+* ¿Podría contarme la última vez que necesitó contratar un técnico para su hogar? ¿Qué tipo de servicio fue?
+* ¿Cómo suele buscar técnicos cuando los necesita? (recomendaciones, internet, directorios, etc.)
+* ¿Cuánto tiempo le toma normalmente encontrar un técnico confiable?
+* ¿Ha tenido malas experiencias contratando técnicos? ¿Qué pasó?
+
+* ¿Qué es lo primero que evalúa cuando va a contratar a un técnico?
+* ¿Cómo decide si confiar o no en una persona que va a ingresar a su hogar?
+* ¿Pregunta por los precios antes de contratar? ¿Cómo maneja las negociaciones?
+* ¿Qué información le gustaría conocer sobre un técnico antes de contratarlo?
+
+* ¿Qué es lo que más le preocupa cuando contrata servicios técnicos?
+* ¿Ha tenido problemas con sobrecostos o trabajos de mala calidad? ¿Cómo los resolvió?
+* ¿Qué pasa cuando tiene una emergencia en casa? (tubería rota, problema eléctrico, etc.)
+* ¿Le resulta fácil encontrar técnicos disponibles cuando los necesita urgentemente?
+
+* ¿Usa aplicaciones para solicitar servicios? (delivery, transporte, etc.)
+* Si existiera una plataforma donde pueda encontrar técnicos verificados con precios transparentes, ¿la usaría?
+* ¿Qué características consideraría más importantes en una app de este tipo?
+* ¿Estaría dispuesto/a a pagar un poco más por mayor seguridad y garantía?
+
+* ¿Cómo le gustaría que fuera el proceso ideal para contratar un técnico?
+* ¿Qué tipo de garantías o respaldos esperaría de este servicio?
+* ¿Prefiere agendar con anticipación o necesita disponibilidad inmediata?
+
+#### Preguntas para el segmento "Técnicos"
+
+* ¿Podría contarme sobre su trabajo? ¿En qué se especializa y cuántos años de experiencia tiene?
+* ¿Cómo es un día típico de trabajo para usted?
+* ¿Trabaja de forma independiente o para alguna empresa?
+* ¿En qué distritos o zonas suele trabajar más?
+
+* ¿Cómo consigue nuevos clientes habitualmente?
+* ¿Qué tan predecible es su flujo de trabajo? ¿Hay épocas mejores que otras?
+* ¿Ha usado internet o redes sociales para promocionar sus servicios?
+* ¿Qué tan difícil es destacarse de otros técnicos en su rubro?
+
+* ¿Cuáles son sus principales desafíos para conseguir trabajo constante?
+* ¿Ha tenido problemas con clientes? ¿Qué tipo de situaciones?
+* ¿Cómo maneja los precios? ¿Los negocia caso por caso o tiene tarifas fijas?
+* ¿Qué pasa cuando un cliente no está conforme con su trabajo o no le quiere pagar?
+
+* ¿Le gustaría formalizar más su trabajo? ¿Qué se lo impide?
+* ¿Ha pensado en tener más herramientas para gestionar su trabajo y clientes?
+* ¿Cómo lleva el control de sus citas, pagos y trabajos realizados?
+* ¿Le interesaría tener una forma de construir su reputación profesional?
+
+* ¿Usa smartphone? ¿Qué aplicaciones usa más?
+* ¿Estaría dispuesto a usar una plataforma digital para conseguir más clientes?
+* ¿Qué características le parecerían más útiles en una app para técnicos?
+* ¿Aceptaría pagar una comisión por cada trabajo conseguido a través de una plataforma?
+
+* Si hubiera una plataforma que le diera acceso a clientes verificados, con precios claros y pagos seguros, ¿la usaría?
+* ¿Qué tipo de verificación o requisitos estaría dispuesto a cumplir para ser parte de la plataforma?
+* ¿Cómo le gustaría que funcionara su perfil profesional en línea?
+* ¿Qué beneficios esperaría obtener al formar parte de esta plataforma?
+
 ### 2.2.2. Registro de entrevistas.
+
+#### Segmento 1: Clientes
+
+- _Entrevista 1:_ 
+
+| Nombre               |                        |
+|----------------------|------------------------|
+| Apellido             |                        |
+| Edad                 |                        |
+| Distrito             |                        |
+| Evidencia            |                        |
+| Url                  |                        |
+| Inicio de entrevista |                        |    
+| Fin de entrevista    |                        |
+
+- Distrito de residencia: 
+- Estado civil: 
+- Ocupación: 
+- Dispositivo de preferencia: 
+- Canales de interacción digital:
+
+Resumen:
+
+- _Entrevista 2:_
+
+
+| Nombre               |                        |
+|----------------------|------------------------|
+| Apellido             |                        |
+| Edad                 |                        |
+| Distrito             |                        |
+| Evidencia            |                        |
+| Url                  |                        |
+| Inicio de entrevista |                        |    
+| Fin de entrevista    |                        |
+
+- Distrito de residencia:
+- Estado civil:
+- Ocupación:
+- Dispositivo de preferencia:
+- Canales de interacción digital:
+
+Resumen:
+
+- _Entrevista 3:_
+
+
+| Nombre               |                        |
+|----------------------|------------------------|
+| Apellido             |                        |
+| Edad                 |                        |
+| Distrito             |                        |
+| Evidencia            |                        |
+| Url                  |                        |
+| Inicio de entrevista |                        |    
+| Fin de entrevista    |                        |
+
+- Distrito de residencia:
+- Estado civil:
+- Ocupación:
+- Dispositivo de preferencia:
+- Canales de interacción digital:
+
+Resumen:
+
+#### Segmento 2: Técnicos
+
+- _Entrevista 1:_
+
+| Nombre               |                        |
+|----------------------|------------------------|
+| Apellido             |                        |
+| Edad                 |                        |
+| Distrito             |                        |
+| Evidencia            |                        |
+| Url                  |                        |
+| Inicio de entrevista |                        |    
+| Fin de entrevista    |                        |
+
+- Distrito de residencia:
+- Estado civil:
+- Ocupación:
+- Dispositivo de preferencia:
+- Canales de interacción digital:
+
+Resumen:
+
+- _Entrevista 2:_
+
+
+| Nombre               |                        |
+|----------------------|------------------------|
+| Apellido             |                        |
+| Edad                 |                        |
+| Distrito             |                        |
+| Evidencia            |                        |
+| Url                  |                        |
+| Inicio de entrevista |                        |    
+| Fin de entrevista    |                        |
+
+- Distrito de residencia:
+- Estado civil:
+- Ocupación:
+- Dispositivo de preferencia:
+- Canales de interacción digital:
+
+Resumen:
+
 
 ### 2.2.3. Análisis de entrevistas.
 
 ## 2.3. Needfinding.
 
-### 2.3.1. TUser Persona.
+### 2.3.1. User Persona.
+
+Esta sección presenta las fichas de User Persona elaborada a partir del análisis de entrevistas y hallazgos del 
+benchmarking. Cada arquetipo representa un segmento objetivo clave, reflejando sus características demográficas, 
+comportamientos, necesidades, frustraciones y motivaciones. Estos perfiles permiten guiar el diseño centrado en el 
+usuario, alineando la solución propuesta con contextos reales de uso.
+
+#### Segmento 1: Clientes
+
+Maria es una profesional de 38 años que vive en Lima con su familia. Busca técnicos confiables para 
+reparaciones en su hogar, pero le preocupa la seguridad y la calidad del trabajo.
+
+![User Persona 1.png](../../assets/chapter2/User%20Persona%201.png)
+
+#### Segmento 2: Técnicos
+
+Carlos es un técnico gasfitero de 42 años que trabaja de manera independiente en Lima. Busca más clientes y 
+estabilidad laboral, pero le cuesta encontrar trabajo constante y lidiar con clientes difíciles.
+
+![User Persona 2.png](../../assets/chapter2/User%20Persona%202.png)
 
 ### 2.3.2. User Task Matrix.
 
+
+
+| Actividades                         | María Elena (Cliente) - Frecuencia / Importancia | Carlos Mendoza (Técnico) - Frecuencia / Importancia |
+|-------------------------------------|--------------------------------------------------|-----------------------------------------------------|
+| Buscar técnicos                     | Con Frecuencia / Alta                            | N/A / N/A                                           |
+| Evaluar perfiles y calificaciones   | Siempre / Alta                                   | N/A / N/A                                           |
+| Solicitar servicios                 | Con Frecuencia / Alta                            | N/A / N/A                                           |
+| Comunicarse con técnicos via chat   | Siempre / Alta                                   | N/A / N/A                                           |
+| Agendar citas                       | Siempre / Alta                                   | Siempre / Alta                                      |
+| Confirmar detalles del servicio     | Siempre / Alta                                   | Siempre / Alta                                      |
+| Recibir técnicos en casa            | Siempre / Alta                                   | N/A / N/A                                           |
+| Supervisar trabajo realizado        | Siempre / Alta                                   | N/A / N/A                                           |
+| Realizar pagos                      | Siempre / Alta                                   | N/A / N/A                                           |
+| Calificar servicios                 | Siempre / Media                                  | Rara vez / Baja                                     |
+| Escribir reseñas                    | Con Frecuencia / Media                           | N/A / N/A                                           |
+| Gestionar perfil personal           | Rara vez / Media                                 | Con Frecuencia / Alta                               |
+| Actualizar disponibilidad           | N/A / N/A                                        | Siempre / Alta                                      |
+| Aceptar/rechazar solicitudes        | N/A / N/A                                        | Siempre / Alta                                      |
+| Ejecutar servicios técnicos         | N/A / N/A                                        | Siempre / Alta                                      |
+| Gestionar agenda de trabajo         | N/A / N/A                                        | Siempre / Alta                                      |
+| Revisar ingresos y métricas         | N/A / N/A                                        | Con Frecuencia / Alta                               |
+| Subir fotos de trabajos             | N/A / N/A                                        | Con Frecuencia / Media                              |
+| Actualizar portafolio               | N/A / N/A                                        | Con Frecuencia / Media                              |
+| Gestionar herramientas y materiales | N/A / N/A                                        | Siempre / Alta                                      |
+| Contactar soporte de plataforma     | Rara vez / Alta                                  | Rara vez / Alta                                     |
+| Guardar técnicos concurrentes       | Con Frecuencia / Media                           | N/A / N/A                                           |
+| Programar servicios recurrentes     | Con Frecuencia / Alta                            | Con Frecuencia / Media                              |
+| Verificar antecedentes              | Rara vez / Alta                                  | Rara vez / Alta                                     |
+| Capacitarse en uso de plataforma    | Rara vez / Media                                 | Con Frecuencia / Media                              |
+| Recomendar plataforma a otros       | Con Frecuencia / Media                           | Con Frecuencia / Media                              |
+| Gestionar métodos de pago           | Con Frecuencia / Media                           | Con Frecuencia / Media                              |
+| Resolver disputas o reclamos        | Rara vez / Alta                                  | Rara vez / Alta                                     |
+| Mantener comunicación post-servicio | Con Frecuencia / Media                           | Con Frecuencia / Media                              |
+
 ### 2.3.3. User Journey Mapping.
 
+En esta sección se presentan los User Journey Maps en su versión As-Is, uno por cada User Persona definida. 
+Cada journey refleja el recorrido actual que realiza el usuario en su contexto real de trabajo, desde el 
+inicio hasta el fin de sus actividades clave, sin la existencia de una solución tecnológica. Estos mapas 
+permiten identificar puntos de fricción, oportunidades de mejora y momentos críticos que guían el diseño 
+centrado en el usuario. Los journeys están directamente vinculados a los arquetipos previamente definidos.
+
+### Segmento 1: Clientes
+
+![User Journey Map - Client.png](../../assets/chapter2/User%20Journey%20Map%20-%20Client.png)
+
+### Segmento 2: Técnicos
+
+![User journey map - Technician.png](../../assets/chapter2/User%20journey%20map%20-%20Technician.png)
+
+
 ### 2.3.4. Empathy Mapping.
+
+En esta sección se presentan los Empathy Maps, uno por cada User Persona definida. Cada mapa refleja
+las percepciones, pensamientos, sentimientos y comportamientos del usuario en su contexto real de trabajo,
+sin la existencia de una solución tecnológica. Estos mapas permiten profundizar en la comprensión del
+usuario, identificando sus necesidades emocionales y racionales, lo que guía el diseño centrado en el usuario.
+Los empathy maps están directamente vinculados a los arquetipos previamente definidos.
+
+#### Segmento 1: Clientes
+
+![Empathy map_Cliente.png](../../assets/chapter2/Empathy%20map_Cliente.png)
+
+#### Semento 2: Técnicos
+
+![Empathy map- Tecnico.png](../../assets/chapter2/Empathy%20map-%20Tecnico.png)
 
 ### 2.3.5. As-is Scenario Mapping.
 
 ## 2.4. Ubiquitous Language.
+
+El Ubiquitous Language es un vocabulario común y preciso que debe ser utilizado por todos 
+los miembros del equipo para referirse a los conceptos del dominio del negocio de ChambaPro. 
+Este lenguaje elimina ambigüedades y asegura que todos hablen el mismo idioma.
+
+* Client (Cliente): Persona que utiliza la plataforma para solicitar servicios técnicos para su hogar o 
+propiedad, buscando profesionales confiables y verificados.
+* Technician (Técnico): Profesional especializado en servicios técnicos (gasfitería, electricidad, cerrajería, etc.) 
+que ofrece sus servicios a través de la plataforma ChambaPro.
+* Service Request (Solicitud de servicio): Petición creada por un Cliente especificando el tipo de trabajo 
+técnico necesario, ubicación, horario preferido y detalles específicos del problema.
+* Verification (Verificación): Proceso mediante el cual ChambaPro válida la identidad, referencias laborales y 
+habilidades técnicas de un profesional antes de aprobar su participación en la plataforma.
+* Service Category (Categoría de servicio): Clasificación principal de los trabajos técnicos ofrecidos en la plataforma 
+(Plumbing/Gasfitería, Electrical/Electricidad, Locksmithing/Cerrajería, Carpentry/Carpintería, etc.).
+* Rating (Calificación): Puntuación numérica del 1 a 5 estrellas que un Cliente otorga a un Técnico después de 
+completar un servicio, evaluando calidad, puntualidad y profesionalismo.
+* Secure Payment (Pago seguro): Sistema mediante el cual ChambaPro retiene el pago del Cliente hasta que el 
+servicio se complete satisfactoriamente, garantizando protección para ambas partes.
+* Service Zone (Zona de servicio): Área geográfica específica donde un Técnico está dispuesto y capacitado 
+para brindar sus servicios, optimizando tiempos de traslado.
+* Quote (Cotización): Precio específico propuesto por un Técnico para una Solicitud de Servicio particular, 
+basado en la complejidad y materiales requeridos.
+* Platform Commission (Comisión de plataforma): Porcentaje del valor total del servicio que ChambaPro retiene como 
+compensación por facilitar la conexión y garantizar la transacción.
+* Professional Profile (Perfil profesional): Información completa de un Técnico que incluye especialidades, 
+experiencia, portafolio de trabajos, calificaciones y certificaciones verificadas.
+* Service Completion (Finalización de servicio): Estado que indica que el trabajo técnico ha sido ejecutado 
+satisfactoriamente y confirmado tanto por el Técnico como por el Cliente.
+* Response Time (Tiempo de respuesta): Período que transcurre entre la publicación de una Solicitud de Servicio y 
+la primera respuesta o cotización de un Técnico disponible.
+* Customer Satisfaction (Satisfacción del cliente): Medición del nivel de conformidad de los Clientes con la calidad 
+del servicio recibido, el proceso de contratación y la experiencia general en la plataforma.
+* Service History (Historial de servicios): Registro completo de todos los trabajos realizados por un Técnico o 
+solicitados por un Cliente, incluyendo calificaciones, fechas y detalles del servicio.
