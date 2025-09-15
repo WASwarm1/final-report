@@ -2,6 +2,80 @@
 
 ## 3.1. To-Be Scenario Mapping.
 
+**Segmento 1: Clientes**
+
+<table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Phases</th>
+      <th>Descubrimiento</th>
+      <th>Evaluación</th>
+      <th>Contratación</th>
+      <th>Pago y Postservicio</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Doing</strong></td>
+      <td>Se registra y navega en la plataforma buscando técnicos por categoría.</td>
+      <td>Compara perfiles, precios y reseñas.</td>
+      <td>Contacta y coordina detalles por chat interno.</td>
+      <td>Realiza pago online con comprobante y evalúa al técnico.</td>
+    </tr>
+    <tr>
+      <td><strong>Thinking</strong></td>
+      <td>"Aquí encuentro varios técnicos verificados."</td>
+      <td>"Puedo elegir al que más confianza me dé según las calificaciones."</td>
+      <td>"Todo queda registrado en la plataforma."</td>
+      <td>"Tengo respaldo y puedo dejar una reseña."</td>
+    </tr>
+    <tr>
+      <td><strong>Feeling</strong></td>
+      <td>Confianza, seguridad.</td>
+      <td>Tranquilidad, control.</td>
+      <td>Seguridad, menos riesgo.</td>
+      <td>Satisfacción, seguridad.</td>
+    </tr>
+  </tbody>
+</table>
+
+**Segmento 2: Técnicos**
+
+<table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Phases</th>
+      <th>Descubrimiento</th>
+      <th>Evaluación</th>
+      <th>Contratación</th>
+      <th>Pago y Postservicio</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Doing</strong></td>
+      <td>Se registra en la plataforma y crea su perfil.</td>
+      <td>Actualiza portafolio, responde consultas en el chat interno.</td>
+      <td>Acepta la solicitud y confirma disponibilidad desde la plataforma.</td>
+      <td>Recibe pago seguro y gana reputación con reseñas.</td>
+    </tr>
+    <tr>
+      <td><strong>Thinking</strong></td>
+      <td>"Ahora los clientes pueden ver mi experiencia fácilmente."</td>
+      <td>"Mi reputación está visible y puedo destacar entre la competencia."</td>
+      <td>"Ya no dependo solo del boca a boca."</td>
+      <td>"Mis trabajos quedan registrados para atraer más clientes."</td>
+    </tr>
+    <tr>
+      <td><strong>Feeling</strong></td>
+      <td>Orgullo, motivación.</td>
+      <td>Confianza, profesionalismo.</td>
+      <td>Confianza, alivio.</td>
+      <td>Orgullo, estabilidad.</td>
+    </tr>
+  </tbody>
+</table>
+
 ## 3.2. User Stories.
 
 ### Epics
