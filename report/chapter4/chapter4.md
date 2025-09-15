@@ -144,7 +144,7 @@ Además, se pretende mostrar cómo estos elementos de diseño ayudan a cumplir l
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
-### 4.4.2. Web Applications Mock-ups.
+### 4.4.3. Web Applications Mock-ups.
 En esta sección se muestran los mock-ups realizados para nuestro Web Application.
 
 **Login - ChambaPro**       
@@ -189,7 +189,7 @@ En esta sección se muestra el diseño del panel de estadisticas de la aplicaci�
 ![Statistics.png](../../assets/chapter4/Statistics.png)
 
 
-### 4.4.3. Web Applications User Flow Diagrams.
+### 4.4.4. Web Applications User Flow Diagrams.
 
 ![Web Application User Flow Diagram.png](../../assets/chapter4/Web%20Application%20User%20Flow%20Diagram.png)
 
