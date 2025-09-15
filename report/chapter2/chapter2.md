@@ -431,6 +431,80 @@ Los empathy maps están directamente vinculados a los arquetipos previamente def
 
 ### 2.3.5. As-is Scenario Mapping.
 
+**Segmento 1: Clientes**
+
+<table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Phases</th>
+      <th>Descubrimiento</th>
+      <th>Evaluación</th>
+      <th>Contratación</th>
+      <th>Pago y Postservicio</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Doing</strong></td>
+      <td>Busca técnicos en redes, recomendaciones o directorios.</td>
+      <td>Revisa fotos, precios, comentarios en redes.</td>
+      <td>Negocia precio y disponibilidad de forma informal.</td>
+      <td>Paga en efectivo o transferencia sin recibo.</td>
+    </tr>
+    <tr>
+      <td><strong>Thinking</strong></td>
+      <td>"¿A quién contrato? No sé si será confiable."</td>
+      <td>"¿Este técnico realmente tiene experiencia? ¿Y si me estafa?"</td>
+      <td>"Ojalá cumpla lo acordado y llegue a tiempo."</td>
+      <td>"No tengo cómo reclamar si hay problemas."</td>
+    </tr>
+    <tr>
+      <td><strong>Feeling</strong></td>
+      <td>Inseguridad, desconfianza.</td>
+      <td>Duda, desconfianza, riesgo.</td>
+      <td>Nerviosismo, expectativa.</td>
+      <td>Riesgo, desprotección.</td>
+    </tr>
+  </tbody>
+</table>
+
+**Segmento 2: Técnicos**
+
+<table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Phases</th>
+      <th>Descubrimiento</th>
+      <th>Evaluación</th>
+      <th>Contratación</th>
+      <th>Pago y Postservicio</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Doing</strong></td>
+      <td>Publica anuncios en Facebook, coloca volantes, depende del boca a boca.</td>
+      <td>Negocia por WhatsApp o llamada sin garantía de cierre.</td>
+      <td>Cierra trato verbal o con mensajes, sin contrato formal.</td>
+      <td>Recibe el pago directamente, sin historial ni reputación formal.</td>
+    </tr>
+    <tr>
+      <td><strong>Thinking</strong></td>
+      <td>"Necesito más clientes, pero no sé cómo llegar a ellos."</td>
+      <td>"El cliente puede no confiar en mí o cancelar a último momento."</td>
+      <td>"Espero que el cliente me pague lo que prometió."</td>
+      <td>"No puedo demostrar mis trabajos pasados a nuevos clientes."</td>
+    </tr>
+    <tr>
+      <td><strong>Feeling</strong></td>
+      <td>Frustración, ansiedad.</td>
+      <td>Incertidumbre, vulnerabilidad.</td>
+      <td>Expectativa, inseguridad.</td>
+      <td>Falta de respaldo, limitado crecimiento.</td>
+    </tr>
+  </tbody>
+</table>
+
 ## 2.4. Ubiquitous Language.
 
 El Ubiquitous Language es un vocabulario común y preciso que debe ser utilizado por todos 
