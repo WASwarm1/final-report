@@ -163,6 +163,9 @@ En esta seccion presentamos los graficos estadisticos del tecnico:
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
+En esta seccion se presenta los wireflow teniendo dos flow:
+![Web Applications Wireflow Diagrams..png](../../assets/chapter4/Web%20Applications%20Wireflow%20Diagrams..png)
+
 ### 4.4.3. Web Applications Mock-ups.
 En esta sección se muestran los mock-ups realizados para nuestro Web Application.
 
