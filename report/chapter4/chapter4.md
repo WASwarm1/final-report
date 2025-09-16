@@ -141,10 +141,32 @@ El objetivo de esta sección Web Applications UX/UI Design es detallar el enfoqu
 Se busca explicar cómo las decisiones tomadas en términos de diseño visual y funcionalidad contribuyen a mejorar la usabilidad, accesibilidad y satisfacción del usuario final. 
 Además, se pretende mostrar cómo estos elementos de diseño ayudan a cumplir los objetivos comerciales del proyecto, asegurando una interacción fluida y eficiente para los usuarios en diferentes dispositivos.
 ### 4.4.1. Web Application Wireframes.
+#### Cliente:
+En esta seccion presentamos el wireframe de Historial de Servicio del cliente:
+![History-Services Wireframe.png](../../assets/chapter4/History-Services%20Wireframe.png)
+
+En esta seccion presentamos el wireframe de Busqueda con filtros y seleccion de tecnico:
+![Search Tech-Services Wireframe.png](../../assets/chapter4/Search%20Tech-Services%20Wireframe.png)
+
+En esta seccion presentamos el wireframe de Contratacion y revision de reseñas del tecnico:
+![Technician Profile and Review Wireframe.png](../../assets/chapter4/Technician%20Profile%20and%20Review%20Wireframe.png)
+
+#### Tecnico:
+En esta seccion tenemos el formulario de verficacion del tecnico:
+![TECHNICIAN - REGISTRATION FORM WIREFRAME.png](../../assets/chapter4/TECHNICIAN%20-%20REGISTRATION%20FORM%20WIREFRAME.png)
+
+En esta seccion presentamos la agenda de reservaciones del tecnico:
+![ReservationWireframe.png](../../assets/chapter4/ReservationWireframe.png)
+
+En esta seccion presentamos los graficos estadisticos del tecnico:
+![StatisticsWireframe.png](../../assets/chapter4/StatisticsWireframe.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
-### 4.4.2. Web Applications Mock-ups.
+En esta seccion se presenta los wireflow teniendo dos flow:
+![Web Applications Wireflow Diagrams..png](../../assets/chapter4/Web%20Applications%20Wireflow%20Diagrams..png)
+
+### 4.4.3. Web Applications Mock-ups.
 En esta sección se muestran los mock-ups realizados para nuestro Web Application.
 
 **Login - ChambaPro**       
@@ -189,7 +211,7 @@ En esta sección se muestra el diseño del panel de estadisticas de la aplicaci�
 ![Statistics.png](../../assets/chapter4/Statistics.png)
 
 
-### 4.4.3. Web Applications User Flow Diagrams.
+### 4.4.4. Web Applications User Flow Diagrams.
 
 ![Web Application User Flow Diagram.png](../../assets/chapter4/Web%20Application%20User%20Flow%20Diagram.png)
 
