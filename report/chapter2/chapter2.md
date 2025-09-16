@@ -295,23 +295,31 @@ Resumen:
 
 - _Entrevista 1:_
 
-| Nombre               |                        |
-|----------------------|------------------------|
-| Apellido             |                        |
-| Edad                 |                        |
-| Distrito             |                        |
-| Evidencia            |                        |
-| Url                  |                        |
-| Inicio de entrevista |                        |    
-| Fin de entrevista    |                        |
+| Nombre               | Gonzalo    |
+|----------------------|------------|
+| Apellido             | Elio       |
+| Edad                 | 56         |
+| Distrito             | Miraflores |
+| Evidencia            |            |
+| Url                  |            |
+| Inicio de entrevista |            |    
+| Fin de entrevista    |            |
 
-- Distrito de residencia:
-- Estado civil:
-- Ocupación:
-- Dispositivo de preferencia:
-- Canales de interacción digital:
+- Distrito de residencia: Miraflores
+- Estado civil: Casado
+- Ocupación: Técnico de sillas de oficina
+- Dispositivo de preferencia: Computadora y smartphone
+- Canales de interacción digital: Facebook, WhatsApp, Mercado Libre
 
-Resumen:
+Gonzalo Elio se dedica desde hace ocho años a la reparación de sillas de oficina, principalmente cambiando pistones y
+ocasionalmente realizando retapizados, trabajando tanto en oficinas como a domicilio, especialmente en zonas como
+Miraflores, San Borja, Surco y San Isidro. Obtiene clientes principalmente mediante un anuncio en Mercado Libre
+y referencias, con una temporada más activa hacia fin de año. Destaca la calidad de su servicio frente a la
+competencia, manejando precios variables según el tipo de pieza y solicitando un 50% de adelanto para cada trabajo.
+Está interesado en expandir su negocio, utilizar herramientas digitales para gestionar pedidos y facturación, y
+se muestra dispuesto a pagar comisiones por clientes obtenidos a través de una plataforma digital, así como a cumplir
+con verificaciones razonables para formalizar y promover su perfil en línea, resaltando su experiencia y testimonios
+de clientes.
 
 - _Entrevista 2:_
 
