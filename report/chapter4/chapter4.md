@@ -217,7 +217,10 @@ En esta sección se muestra el diseño del panel de estadisticas de la aplicaci�
 
 ## 4.5. Web Applications Prototyping.
 
-[![Alt text](https://img.youtube.com/vi/Vb27akyoaTk/0.jpg)](https://www.youtube.com/watch?v=Vb27akyoaTk)
+![screenshotvideoprotyping.png](../../assets/chapter4/screenshotvideoprotyping.png)
+
+#### Link del video:
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202313458_upc_edu_pe/Ec4bU5pUJxlOrxTDqHhpFOgBNTZnCLRATimnWoBM7MMvGg?e=duMkpc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ## 4.6. Domain-Driven Software Architecture.
 
