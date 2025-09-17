@@ -220,7 +220,7 @@ En esta sección se muestra el diseño del panel de estadisticas de la aplicaci�
 ![screenshotvideoprotyping.png](../../assets/chapter4/screenshotvideoprotyping.png)
 
 #### Link del video:
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202313458_upc_edu_pe/Ec4bU5pUJxlOrxTDqHhpFOgBNTZnCLRATimnWoBM7MMvGg?e=duMkpc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Link [Video of upc-pre-202510-1asi0730- 7426-ChambaPro-Prototype](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202313458_upc_edu_pe/Ec4bU5pUJxlOrxTDqHhpFOgBNTZnCLRATimnWoBM7MMvGg?e=duMkpc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D "Video of upc-pre-202510-1asi0730- 7426-ChambaPro-Prototype").
 
 ## 4.6. Domain-Driven Software Architecture.
 
