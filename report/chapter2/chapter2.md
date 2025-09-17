@@ -231,44 +231,49 @@ preferencia, dispositivos de uso, etc.
 
 - _Entrevista 1:_ 
 
-| Nombre               |                        |
-|----------------------|------------------------|
-| Apellido             |                        |
-| Edad                 |                        |
-| Distrito             |                        |
-| Evidencia            |                        |
-| Url                  |                        |
-| Inicio de entrevista |                        |    
-| Fin de entrevista    |                        |
+| Nombre               |                   |
+|----------------------|-------------------|
+| Apellido             | Sebastian Finetti |
+| Edad                 | 19                |
+| Distrito             | San Miguel        |
+| Evidencia            |                   |
+| Url                  |                   |
+| Inicio de entrevista |                   |    
+| Fin de entrevista    |                   |
 
-- Distrito de residencia: 
-- Estado civil: 
-- Ocupación: 
-- Dispositivo de preferencia: 
-- Canales de interacción digital:
+- Distrito de residencia: San Miguel
+- Estado civil: Soltero
+- Ocupación: Estudiante
+- Dispositivo de preferencia: Smartphone
+- Canales de interacción digital: Facebook, Whatsapp
 
-Resumen:
+Resumen: Sebastian es un estudiante de la cual su edad es 19, el cuenta que usualmente no necesito contactar tecnicos
+debido a que posee un familiar que se dedica a esas cosas. Sin embargo, el esta interesado en una aplicacion que pueda 
+ayudarlo a encontrar a un buen tecnico, el dice que tomaria mucho en cuenta las reseñas y datos del tecnico a la hora de seleccionar uno.
+Mostro estar de acuerdo con lo propuesto y que usaria la aplicacion.
 
 - _Entrevista 2:_
 
 
-| Nombre               |                        |
-|----------------------|------------------------|
-| Apellido             |                        |
-| Edad                 |                        |
-| Distrito             |                        |
-| Evidencia            |                        |
-| Url                  |                        |
-| Inicio de entrevista |                        |    
-| Fin de entrevista    |                        |
+| Nombre               |               |
+|----------------------|---------------|
+| Apellido             | Limber Quispe |
+| Edad                 | 20            |
+| Distrito             | San Miguel    |
+| Evidencia            |               |
+| Url                  |               |
+| Inicio de entrevista |               |    
+| Fin de entrevista    |               |
 
-- Distrito de residencia:
-- Estado civil:
-- Ocupación:
-- Dispositivo de preferencia:
-- Canales de interacción digital:
+- Distrito de residencia: Estudiante
+- Estado civil: Soltero
+- Ocupación: Estudiante y trabajador
+- Dispositivo de preferencia: Smartphone
+- Canales de interacción digital: Whatsapp, Instagram, Facebook
 
-Resumen:
+Resumen: Limber es un estudiante que también trabaja. Nos comenta que tuvo varios problemas cuando contacto a tecnicos anteriormente debido al trabajo ineficiente de estos. El dice que una de las principales preocupaciones 
+al momento de contactar a un tecnico es la calidad del trabajo de este y tomaria en cuenta un precio rasonable.
+Tambien nos comenta que estaria interesado en una aplicacion que pueda facilitarle contactar a los tecnicos que necesite y que quiere que tengan disponibilidad inmediata.
 
 - _Entrevista 3:_
 
@@ -287,7 +292,7 @@ Resumen:
 - Estado civil:
 - Ocupación:
 - Dispositivo de preferencia:
-- Canales de interacción digital:
+- Canales de interacción digital: 
 
 Resumen:
 
