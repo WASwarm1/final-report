@@ -231,15 +231,15 @@ preferencia, dispositivos de uso, etc.
 
 - _Entrevista 1:_ 
 
-| Nombre               |                   |
-|----------------------|-------------------|
-| Apellido             | Sebastian Finetti |
-| Edad                 | 19                |
-| Distrito             | San Miguel        |
-| Evidencia            |                   |
-| Url                  |                   |
-| Inicio de entrevista |                   |    
-| Fin de entrevista    |                   |
+| Nombre               | Sebastian                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Finetti                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Edad                 | 19                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Distrito             | San Miguel                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Evidencia            | ![1interview.png](../../assets/chapter2/1interview.png)                                                                                                                                                                                                                                                                                                                                                                                                |
+| Url                  | [Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202313458_upc_edu_pe/Ef0xB6SVzbJIleHDnB60iHUB7PbPtvrT7eH3O5HiGzloyQ?e=kwd2Z4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTc1My45Nn19 "upc-pre-202520-1asi0729-7426-ChambaPro-Interviews") |
+| Inicio de entrevista | 00:10                                                                                                                                                                                                                                                                                                                                                                                                                                                  |    
+| Fin de entrevista    | 05:54                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
 - Distrito de residencia: San Miguel
 - Estado civil: Soltero
@@ -255,15 +255,15 @@ Mostro estar de acuerdo con lo propuesto y que usaria la aplicacion.
 - _Entrevista 2:_
 
 
-| Nombre               |               |
-|----------------------|---------------|
-| Apellido             | Limber Quispe |
-| Edad                 | 20            |
-| Distrito             | San Miguel    |
-| Evidencia            |               |
-| Url                  |               |
-| Inicio de entrevista |               |    
-| Fin de entrevista    |               |
+| Nombre               | Limber                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Quispe                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Edad                 | 20                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Distrito             | San Miguel                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Evidencia            | ![2interview.png](../../assets/chapter2/2interview.png)                                                                                                                                                                                                                                                                                                                                                                                                |
+| Url                  | [Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202313458_upc_edu_pe/Ef0xB6SVzbJIleHDnB60iHUB7PbPtvrT7eH3O5HiGzloyQ?e=kwd2Z4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTc1My45Nn19 "upc-pre-202520-1asi0729-7426-ChambaPro-Interviews") |
+| Inicio de entrevista | 06:00                                                                                                                                                                                                                                                                                                                                                                                                                                                  |    
+| Fin de entrevista    | 13:21                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
 - Distrito de residencia: Estudiante
 - Estado civil: Soltero
@@ -275,40 +275,20 @@ Resumen: Limber es un estudiante que también trabaja. Nos comenta que tuvo vari
 al momento de contactar a un tecnico es la calidad del trabajo de este y tomaria en cuenta un precio rasonable.
 Tambien nos comenta que estaria interesado en una aplicacion que pueda facilitarle contactar a los tecnicos que necesite y que quiere que tengan disponibilidad inmediata.
 
-- _Entrevista 3:_
-
-
-| Nombre               |                        |
-|----------------------|------------------------|
-| Apellido             |                        |
-| Edad                 |                        |
-| Distrito             |                        |
-| Evidencia            |                        |
-| Url                  |                        |
-| Inicio de entrevista |                        |    
-| Fin de entrevista    |                        |
-
-- Distrito de residencia:
-- Estado civil:
-- Ocupación:
-- Dispositivo de preferencia:
-- Canales de interacción digital: 
-
-Resumen:
 
 #### Segmento 2: Técnicos
 
 - _Entrevista 1:_
 
-| Nombre               | Gonzalo    |
-|----------------------|------------|
-| Apellido             | Elio       |
-| Edad                 | 56         |
-| Distrito             | Miraflores |
-| Evidencia            |            |
-| Url                  |            |
-| Inicio de entrevista |            |    
-| Fin de entrevista    |            |
+| Nombre               | Gonzalo                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Elio                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Edad                 | 56                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Distrito             | Miraflores                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Evidencia            | ![3interview.png](../../assets/chapter2/3interview.png)                                                                                                                                                                                                                                                                                                                                                                                                |
+| Url                  | [Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202313458_upc_edu_pe/Ef0xB6SVzbJIleHDnB60iHUB7PbPtvrT7eH3O5HiGzloyQ?e=kwd2Z4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTc1My45Nn19 "upc-pre-202520-1asi0729-7426-ChambaPro-Interviews") |
+| Inicio de entrevista | 13:30                                                                                                                                                                                                                                                                                                                                                                                                                                                  |    
+| Fin de entrevista    | 22:12                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
 - Distrito de residencia: Miraflores
 - Estado civil: Casado
@@ -329,25 +309,28 @@ de clientes.
 - _Entrevista 2:_
 
 
-| Nombre               |                        |
-|----------------------|------------------------|
-| Apellido             |                        |
-| Edad                 |                        |
-| Distrito             |                        |
-| Evidencia            |                        |
-| Url                  |                        |
-| Inicio de entrevista |                        |    
-| Fin de entrevista    |                        |
+| Nombre               | Denilson                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Vasquez                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Edad                 | 24                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Distrito             | Chorrillos                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Evidencia            | ![4interview.png](../../assets/chapter2/4interview.png)                                                                                                                                                                                                                                                                                                                                                                                                |
+| Url                  | [Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202313458_upc_edu_pe/Ef0xB6SVzbJIleHDnB60iHUB7PbPtvrT7eH3O5HiGzloyQ?e=kwd2Z4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTc1My45Nn19 "upc-pre-202520-1asi0729-7426-ChambaPro-Interviews") |
+| Inicio de entrevista | 22:20                                                                                                                                                                                                                                                                                                                                                                                                                                                  |    
+| Fin de entrevista    | 33:20                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
-- Distrito de residencia:
-- Estado civil:
-- Ocupación:
-- Dispositivo de preferencia:
+- Distrito de residencia: Chorrillos
+- Estado civil: Soltero
+- Ocupación: Tecnico en Gasfiteria
+- Dispositivo de preferencia: Caja de Herramientas
 - Canales de interacción digital:
 
 Resumen:
-
-
+Denilson es un técnico gasfitero (plomero) altamente experimentado e independiente con 15 años en el oficio. 
+Se enorgullece de su honestidad, puntualidad y la calidad de su trabajo, ofreciendo garantías para construir confianza a largo plazo con sus clientes. 
+Como su propio jefe, disfruta de la libertad de manejar su horario, pero lucha con la naturaleza impredecible de sus ingresos y los desafíos de competir con la mano de obra informal de bajo costo. 
+Denilson es un solucionador de problemas práctico que depende en gran medida de su smartphone para gestionar sus operaciones diarias, desde la coordinación con clientes vía WhatsApp hasta la navegación por la ciudad. 
+Aunque ha construido su negocio en base a recomendaciones de boca en boca, está abierto y deseoso de adoptar nuevas herramientas digitales que puedan proporcionarle un flujo de trabajo más estable, conectarlo con clientes serios y ayudarlo a construir una reputación profesional verificable en línea.
 ### 2.2.3. Análisis de entrevistas.
 
 ## 2.3. Needfinding.
