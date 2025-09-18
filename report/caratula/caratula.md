@@ -44,6 +44,8 @@ fueran revisadas y completadas a tiempo.
 
 #### Evidencia de colaboración:
 
+![evidencia_colaboracion_reporte_tb1.png](../../assets/caratuala/evidencia_colaboracion_reporte_tb1.png)
+
 # Contenido
 
 ## Tabla de Contenidos
