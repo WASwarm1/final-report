@@ -223,9 +223,9 @@ fluida y responsiva.</td>
 | Team member (LastName, First Name) | GitHub UserName | Aspect 1: Landing Page Leader (L) / Collaborator (C) | Aspect 2: Diseños Figma: Leader (L) / Collaborator (C) | Aspect 3: Reporte (L) / Collaborator (C) |
 |------------------------------------|-----------------|------------------------------------------------------|--------------------------------------------------------|------------------------------------------|
 | Lang Nassi, Werner Khalil          | 00WernerLang    | L                                                    | C                                                      | L                                        |
-| Jorge Franciscoz Taipe Sangama     | CamotinFurious  | C                                                    | L                                                      | C                                        |
+| Jorge Franciscoz Taipe Sangama     | CamotinFurious  | C                                                    | L                                                      | L                                        |
 | Ortega Muñoz, Saúl                 | Ss1lent10       | C                                                    | L                                                      | C                                        |
-| Armestar Heredia, Matias Gabriel   | MatiasArmestar  | L                                                    | C                                                      | C                                        |
+| Armestar Heredia, Matias Gabriel   | MatiasArmestar  | L                                                    | C                                                      | L                                        |
 | Duran Santander, Emilia            | emiliadurans    | C                                                    | L                                                      | C                                        |
 
 #### 5.2.1.3. Sprint Backlog 1.
@@ -341,16 +341,16 @@ A continuación, se muestran algunos insights del repositorio de GitHub:
 
 ### VIDEOS:
 
-| Título                  | Descripción | Enlace |
-|-------------------------|-------------|--------|
-| Video de exposición TB1 |             |        |
-| Vídeo de entrevistas    |             |        |
+| Título                  | Descripción                                      | Enlace                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|-------------------------|--------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Video de exposición TB1 |                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Vídeo de entrevistas    | Entrevistas realizadas a los clientes y tecnicos | [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202313458_upc_edu_pe/Ef0xB6SVzbJIleHDnB60iHUB7PbPtvrT7eH3O5HiGzloyQ?e=kwd2Z4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTc1My45Nn19 "upc-pre-202520-1asi0729-7426-ChambaPro-Interviews") |
 
 ### UX/UI:
 
-| Título | Descripción                                                                                                | Enlace                      |
-|--------|------------------------------------------------------------------------------------------------------------|-----------------------------|
-| Figma  | Enlace hacia el documento de Figma con todos los diseños planteados para tanto Frontend como Landing Page. | https://acortar.link/TzhMF3 |
+| Título | Descripción                                                                                                | Enlace                                                                                                                                                             |
+|--------|------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Figma  | Enlace hacia el documento de Figma con todos los diseños planteados para tanto Frontend como Landing Page. | [Figma](https://www.figma.com/design/sQmo2TbMYbXuNk5eaAle1k/Mockups-ChambaPro?node-id=1-1164&t=RK8H2b3X0EWFsbzO-1 "upc-pre-202520-1asi0729-7426-ChambaPro-Figma")  |
 
 ### GITHUB:
 
@@ -358,3 +358,4 @@ A continuación, se muestran algunos insights del repositorio de GitHub:
 |----------------------|------------------------------------------|-----------------------------|
 | Reporte del proyecto | Enlace al repositorio del reporte        | https://acortar.link/fM6JgD |
 | Landing Page         | Enlace al repositorio de la landing page | https://acortar.link/cISgq8 |
+| Fillout              | Enlace a las respuestas del fillout      | https://acortar.link/YKF3PA |
