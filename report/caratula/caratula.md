@@ -17,7 +17,7 @@
 | Taipe Sangama, Jorge Francisco   | U202313458       |
 | Saúl, Ortega Muñoz               | U20231c019       |
 | Armestar Heredia, Matias Gabriel | U20221A553       |
-|                                  |                  |
+| Durán Santander, Emilia Mercedes | U201914541       |
 
 Ciclo: 2025-20
 
