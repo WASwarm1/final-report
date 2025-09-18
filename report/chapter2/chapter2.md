@@ -333,6 +333,51 @@ Denilson es un solucionador de problemas práctico que depende en gran medida de
 Aunque ha construido su negocio en base a recomendaciones de boca en boca, está abierto y deseoso de adoptar nuevas herramientas digitales que puedan proporcionarle un flujo de trabajo más estable, conectarlo con clientes serios y ayudarlo a construir una reputación profesional verificable en línea.
 ### 2.2.3. Análisis de entrevistas.
 
+Los clientes jóvenes, como Sebastian y Limber, muestran interés en la aplicación principalmente por la confianza y 
+facilidad de uso. Aunque Sebastian no suele necesitar técnicos por tener un familiar que lo ayuda, valoraría contar 
+con la app como alternativa y resalta la importancia de reseñas y perfiles verificados. Limber, en cambio, ha tenido 
+experiencias negativas con técnicos poco eficientes, por lo que da prioridad a la calidad del servicio, precios razonables 
+y disponibilidad inmediata, necesidades muy frecuentes en usuarios que combinan estudio y trabajo.
+
+Por otro lado, los técnicos experimentados, como Gonzalo y Denilson, evidencian la oportunidad de digitalizar su negocio. 
+Gonzalo busca expandirse y está dispuesto a pagar comisiones y pasar verificaciones con tal de obtener más clientes y 
+formalizarse, mientras que Denilson, con 15 años de experiencia, se enfrenta a la inestabilidad de ingresos y la 
+competencia informal, pero ve en una plataforma como ChambaPro una manera de conseguir un flujo constante de clientes y 
+consolidar una reputación profesional en línea. Ambos técnicos coinciden en la necesidad de herramientas digitales de 
+gestión y visibilidad.
+
+Perfiles identificados:
+Clientes jóvenes (18-25 años, principalmente estudiantes) y técnicos experimentados (35-65 años).
+
+
+Rangos de edad:
+La mayoría de los clientes pertenecen a 18-25 años, mientras que los técnicos están en 36-65 años.
+![Clientes_Edad.jpg](../../assets/chapter2/Clientes_Edad.jpg)
+![Técnicos_Edad.png](../../assets/chapter2/T%C3%A9cnicos_Edad.png)
+
+Dispositivos utilizados:
+Todos los participantes usan smartphones (Android y Apple), confirmando que la app debe ser mobile-first.
+![Dispositvos_Usados.png](../../assets/chapter2/Dispositvos_Usados.png)
+
+Aplicaciones frecuentes:
+WhatsApp es la más utilizada, seguida de Facebook e Instagram → la comunicación directa y las redes sociales generan confianza.
+![Apps_Frecuentes.png](../../assets/chapter2/Apps_Frecuentes.png)
+
+Expectativas de la plataforma:
+
+Clientes: que resuelva problemas de manera rápida, sea fácil de usar y muestre información clara del técnico.
+
+Técnicos: conseguir más clientes, promocionar servicios, y un sistema de calificaciones para reputación.
+![Expectativas_Forms.png](../../assets/chapter2/Expectativas_Forms.png)
+
+Funciones más solicitadas:
+
+Calificaciones y reseñas.
+
+Datos completos y transparentes del técnico.
+
+Herramientas de gestión (agenda, facturación, promoción).
+
 ## 2.3. Needfinding.
 
 ### 2.3.1. User Persona.
