@@ -15,9 +15,9 @@
 |----------------------------------|------------------|
 | Lang Nassi, Werner Khalil        | U202310003       |
 | Taipe Sangama, Jorge Francisco   | U202313458       |
-| Saúl, Ortega Muñoz               |        |
+| Saúl, Ortega Muñoz               | U20231c019       |
 | Armestar Heredia, Matias Gabriel | U20221A553       |
-|                                  |        |
+|                                  |                  |
 
 Ciclo: 2025-20
 
@@ -145,7 +145,7 @@ El curso contribuye al cumplimiento del **Student Outcome ABET:ABET – EAC - St
 liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas 
 y cumplen objetivos.
 
-| Criterio específico                                                                             | Acciones realizadas | Conclusiones |
-|-------------------------------------------------------------------------------------------------|--------------------|--------------|
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta                                 | | |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos  | | |
+| Criterio específico                                                                             | Acciones realizadas                                                                                                                                                                                                                                            | Conclusiones |
+|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta                                 | TB1: <br/>Saul Ortega: Colabore en la organizacion y comunicacion del equipo, aportando ideas, cumpliendo mis tareas y apoyando al grupo para lograr un trabajo conjunto.                                                                                      | |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos  | TB1: <br/>Saul Ortega: Participe en la creacion de un entorno colaborativo e inclusivo, aportando ideas en la definicion de metas, apoyando la planificacion de tareas y cumpliendo mis responsabilidades para contribuir al logro de los objetivos del equipo | |
