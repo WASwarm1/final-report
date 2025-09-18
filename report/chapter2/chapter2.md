@@ -231,110 +231,106 @@ preferencia, dispositivos de uso, etc.
 
 - _Entrevista 1:_ 
 
-| Nombre               |                        |
-|----------------------|------------------------|
-| Apellido             |                        |
-| Edad                 |                        |
-| Distrito             |                        |
-| Evidencia            |                        |
-| Url                  |                        |
-| Inicio de entrevista |                        |    
-| Fin de entrevista    |                        |
+| Nombre               | Sebastian                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Finetti                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Edad                 | 19                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Distrito             | San Miguel                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Evidencia            | ![1interview.png](../../assets/chapter2/1interview.png)                                                                                                                                                                                                                                                                                                                                                                                                |
+| Url                  | [Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202313458_upc_edu_pe/Ef0xB6SVzbJIleHDnB60iHUB7PbPtvrT7eH3O5HiGzloyQ?e=kwd2Z4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTc1My45Nn19 "upc-pre-202520-1asi0729-7426-ChambaPro-Interviews") |
+| Inicio de entrevista | 00:10                                                                                                                                                                                                                                                                                                                                                                                                                                                  |    
+| Fin de entrevista    | 05:54                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
-- Distrito de residencia: 
-- Estado civil: 
-- Ocupación: 
-- Dispositivo de preferencia: 
-- Canales de interacción digital:
+- Distrito de residencia: San Miguel
+- Estado civil: Soltero
+- Ocupación: Estudiante
+- Dispositivo de preferencia: Smartphone
+- Canales de interacción digital: Facebook, Whatsapp
 
-Resumen:
+Resumen: Sebastian es un estudiante de la cual su edad es 19, el cuenta que usualmente no necesito contactar tecnicos
+debido a que posee un familiar que se dedica a esas cosas. Sin embargo, el esta interesado en una aplicacion que pueda 
+ayudarlo a encontrar a un buen tecnico, el dice que tomaria mucho en cuenta las reseñas y datos del tecnico a la hora de seleccionar uno.
+Mostro estar de acuerdo con lo propuesto y que usaria la aplicacion.
 
 - _Entrevista 2:_
 
 
-| Nombre               |                        |
-|----------------------|------------------------|
-| Apellido             |                        |
-| Edad                 |                        |
-| Distrito             |                        |
-| Evidencia            |                        |
-| Url                  |                        |
-| Inicio de entrevista |                        |    
-| Fin de entrevista    |                        |
+| Nombre               | Limber                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Quispe                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Edad                 | 20                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Distrito             | San Miguel                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Evidencia            | ![2interview.png](../../assets/chapter2/2interview.png)                                                                                                                                                                                                                                                                                                                                                                                                |
+| Url                  | [Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202313458_upc_edu_pe/Ef0xB6SVzbJIleHDnB60iHUB7PbPtvrT7eH3O5HiGzloyQ?e=kwd2Z4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTc1My45Nn19 "upc-pre-202520-1asi0729-7426-ChambaPro-Interviews") |
+| Inicio de entrevista | 06:00                                                                                                                                                                                                                                                                                                                                                                                                                                                  |    
+| Fin de entrevista    | 13:21                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
-- Distrito de residencia:
-- Estado civil:
-- Ocupación:
-- Dispositivo de preferencia:
-- Canales de interacción digital:
+- Distrito de residencia: Estudiante
+- Estado civil: Soltero
+- Ocupación: Estudiante y trabajador
+- Dispositivo de preferencia: Smartphone
+- Canales de interacción digital: Whatsapp, Instagram, Facebook
 
-Resumen:
+Resumen: Limber es un estudiante que también trabaja. Nos comenta que tuvo varios problemas cuando contacto a tecnicos anteriormente debido al trabajo ineficiente de estos. El dice que una de las principales preocupaciones 
+al momento de contactar a un tecnico es la calidad del trabajo de este y tomaria en cuenta un precio rasonable.
+Tambien nos comenta que estaria interesado en una aplicacion que pueda facilitarle contactar a los tecnicos que necesite y que quiere que tengan disponibilidad inmediata.
 
-- _Entrevista 3:_
-
-
-| Nombre               |                        |
-|----------------------|------------------------|
-| Apellido             |                        |
-| Edad                 |                        |
-| Distrito             |                        |
-| Evidencia            |                        |
-| Url                  |                        |
-| Inicio de entrevista |                        |    
-| Fin de entrevista    |                        |
-
-- Distrito de residencia:
-- Estado civil:
-- Ocupación:
-- Dispositivo de preferencia:
-- Canales de interacción digital:
-
-Resumen:
 
 #### Segmento 2: Técnicos
 
 - _Entrevista 1:_
 
-| Nombre               |                        |
-|----------------------|------------------------|
-| Apellido             |                        |
-| Edad                 |                        |
-| Distrito             |                        |
-| Evidencia            |                        |
-| Url                  |                        |
-| Inicio de entrevista |                        |    
-| Fin de entrevista    |                        |
+| Nombre               | Gonzalo                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Elio                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Edad                 | 56                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Distrito             | Miraflores                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Evidencia            | ![3interview.png](../../assets/chapter2/3interview.png)                                                                                                                                                                                                                                                                                                                                                                                                |
+| Url                  | [Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202313458_upc_edu_pe/Ef0xB6SVzbJIleHDnB60iHUB7PbPtvrT7eH3O5HiGzloyQ?e=kwd2Z4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTc1My45Nn19 "upc-pre-202520-1asi0729-7426-ChambaPro-Interviews") |
+| Inicio de entrevista | 13:30                                                                                                                                                                                                                                                                                                                                                                                                                                                  |    
+| Fin de entrevista    | 22:12                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
-- Distrito de residencia:
-- Estado civil:
-- Ocupación:
-- Dispositivo de preferencia:
-- Canales de interacción digital:
+- Distrito de residencia: Miraflores
+- Estado civil: Casado
+- Ocupación: Técnico de sillas de oficina
+- Dispositivo de preferencia: Computadora y smartphone
+- Canales de interacción digital: Facebook, WhatsApp, Mercado Libre
 
-Resumen:
+Gonzalo Elio se dedica desde hace ocho años a la reparación de sillas de oficina, principalmente cambiando pistones y
+ocasionalmente realizando retapizados, trabajando tanto en oficinas como a domicilio, especialmente en zonas como
+Miraflores, San Borja, Surco y San Isidro. Obtiene clientes principalmente mediante un anuncio en Mercado Libre
+y referencias, con una temporada más activa hacia fin de año. Destaca la calidad de su servicio frente a la
+competencia, manejando precios variables según el tipo de pieza y solicitando un 50% de adelanto para cada trabajo.
+Está interesado en expandir su negocio, utilizar herramientas digitales para gestionar pedidos y facturación, y
+se muestra dispuesto a pagar comisiones por clientes obtenidos a través de una plataforma digital, así como a cumplir
+con verificaciones razonables para formalizar y promover su perfil en línea, resaltando su experiencia y testimonios
+de clientes.
 
 - _Entrevista 2:_
 
 
-| Nombre               |                        |
-|----------------------|------------------------|
-| Apellido             |                        |
-| Edad                 |                        |
-| Distrito             |                        |
-| Evidencia            |                        |
-| Url                  |                        |
-| Inicio de entrevista |                        |    
-| Fin de entrevista    |                        |
+| Nombre               | Denilson                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Vasquez                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Edad                 | 24                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Distrito             | Chorrillos                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Evidencia            | ![4interview.png](../../assets/chapter2/4interview.png)                                                                                                                                                                                                                                                                                                                                                                                                |
+| Url                  | [Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202313458_upc_edu_pe/Ef0xB6SVzbJIleHDnB60iHUB7PbPtvrT7eH3O5HiGzloyQ?e=kwd2Z4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTc1My45Nn19 "upc-pre-202520-1asi0729-7426-ChambaPro-Interviews") |
+| Inicio de entrevista | 22:20                                                                                                                                                                                                                                                                                                                                                                                                                                                  |    
+| Fin de entrevista    | 33:20                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
-- Distrito de residencia:
-- Estado civil:
-- Ocupación:
-- Dispositivo de preferencia:
-- Canales de interacción digital:
+- Distrito de residencia: Chorrillos
+- Estado civil: Soltero
+- Ocupación: Tecnico en Gasfiteria
+- Dispositivo de preferencia: Caja de Herramientas
+- Canales de interacción digital: WhatsApp, Facebook
 
 Resumen:
-
-
+Denilson es un técnico gasfitero (plomero) altamente experimentado e independiente con 15 años en el oficio. 
+Se enorgullece de su honestidad, puntualidad y la calidad de su trabajo, ofreciendo garantías para construir confianza a largo plazo con sus clientes. 
+Como su propio jefe, disfruta de la libertad de manejar su horario, pero lucha con la naturaleza impredecible de sus ingresos y los desafíos de competir con la mano de obra informal de bajo costo. 
+Denilson es un solucionador de problemas práctico que depende en gran medida de su smartphone para gestionar sus operaciones diarias, desde la coordinación con clientes vía WhatsApp hasta la navegación por la ciudad. 
+Aunque ha construido su negocio en base a recomendaciones de boca en boca, está abierto y deseoso de adoptar nuevas herramientas digitales que puedan proporcionarle un flujo de trabajo más estable, conectarlo con clientes serios y ayudarlo a construir una reputación profesional verificable en línea.
 ### 2.2.3. Análisis de entrevistas.
 
 ## 2.3. Needfinding.
@@ -430,6 +426,80 @@ Los empathy maps están directamente vinculados a los arquetipos previamente def
 ![Empathy map- Tecnico.png](../../assets/chapter2/Empathy%20map-%20Tecnico.png)
 
 ### 2.3.5. As-is Scenario Mapping.
+
+**Segmento 1: Clientes**
+
+<table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Phases</th>
+      <th>Descubrimiento</th>
+      <th>Evaluación</th>
+      <th>Contratación</th>
+      <th>Pago y Postservicio</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Doing</strong></td>
+      <td>Busca técnicos en redes, recomendaciones o directorios.</td>
+      <td>Revisa fotos, precios, comentarios en redes.</td>
+      <td>Negocia precio y disponibilidad de forma informal.</td>
+      <td>Paga en efectivo o transferencia sin recibo.</td>
+    </tr>
+    <tr>
+      <td><strong>Thinking</strong></td>
+      <td>"¿A quién contrato? No sé si será confiable."</td>
+      <td>"¿Este técnico realmente tiene experiencia? ¿Y si me estafa?"</td>
+      <td>"Ojalá cumpla lo acordado y llegue a tiempo."</td>
+      <td>"No tengo cómo reclamar si hay problemas."</td>
+    </tr>
+    <tr>
+      <td><strong>Feeling</strong></td>
+      <td>Inseguridad, desconfianza.</td>
+      <td>Duda, desconfianza, riesgo.</td>
+      <td>Nerviosismo, expectativa.</td>
+      <td>Riesgo, desprotección.</td>
+    </tr>
+  </tbody>
+</table>
+
+**Segmento 2: Técnicos**
+
+<table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Phases</th>
+      <th>Descubrimiento</th>
+      <th>Evaluación</th>
+      <th>Contratación</th>
+      <th>Pago y Postservicio</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Doing</strong></td>
+      <td>Publica anuncios en Facebook, coloca volantes, depende del boca a boca.</td>
+      <td>Negocia por WhatsApp o llamada sin garantía de cierre.</td>
+      <td>Cierra trato verbal o con mensajes, sin contrato formal.</td>
+      <td>Recibe el pago directamente, sin historial ni reputación formal.</td>
+    </tr>
+    <tr>
+      <td><strong>Thinking</strong></td>
+      <td>"Necesito más clientes, pero no sé cómo llegar a ellos."</td>
+      <td>"El cliente puede no confiar en mí o cancelar a último momento."</td>
+      <td>"Espero que el cliente me pague lo que prometió."</td>
+      <td>"No puedo demostrar mis trabajos pasados a nuevos clientes."</td>
+    </tr>
+    <tr>
+      <td><strong>Feeling</strong></td>
+      <td>Frustración, ansiedad.</td>
+      <td>Incertidumbre, vulnerabilidad.</td>
+      <td>Expectativa, inseguridad.</td>
+      <td>Falta de respaldo, limitado crecimiento.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## 2.4. Ubiquitous Language.
 
