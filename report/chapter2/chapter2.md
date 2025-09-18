@@ -323,7 +323,7 @@ de clientes.
 - Estado civil: Soltero
 - Ocupación: Tecnico en Gasfiteria
 - Dispositivo de preferencia: Caja de Herramientas
-- Canales de interacción digital:
+- Canales de interacción digital: WhatsApp, Facebook
 
 Resumen:
 Denilson es un técnico gasfitero (plomero) altamente experimentado e independiente con 15 años en el oficio. 
