@@ -358,3 +358,4 @@ A continuación, se muestran algunos insights del repositorio de GitHub:
 |----------------------|------------------------------------------|-----------------------------|
 | Reporte del proyecto | Enlace al repositorio del reporte        | https://acortar.link/fM6JgD |
 | Landing Page         | Enlace al repositorio de la landing page | https://acortar.link/cISgq8 |
+| Fillout              | Enlace a las respuestas del fillout      | https://acortar.link/YKF3PA |
