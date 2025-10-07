@@ -319,6 +319,120 @@ A continuación, se muestran algunos insights del repositorio de GitHub:
 
 ![Team_Collaboration_Sprint1.png](../../assets/chapter5/Team_Collaboration_Sprint1.png)
 
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1. Sprint Planning 2.
+
+<table>
+<tr>
+    <th colspan="5">Sprint 2</th>
+    <th colspan="9">Sprint 2</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2025-10-01</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">14:40</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">via WhatsApp</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Werner Lang</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Werner Khalil Lang Nassi, Jorge Francisco Taipe Sangama, Saúl Ortega Muñoz, Matias Gabriel Armestar Heredia, Emilia Duran Santander</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint  2 Review Summary</td>
+    <td colspan="8">-</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 2 Retrospective Summary</td>
+    <td colspan="8">-</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 2 Goal</td>
+    <td colspan="8">
+-</td>
+</tr>
+</table>
+
+#### 5.2.2.2. Aspect Leaders and Collaborators.
+
+| Team member (LastName, First Name) | GitHub UserName | Aspect 1: User | Aspect 2: Work | Aspect 3: Reporte |
+|------------------------------------|-----------------|----------------|----------------|-------------------|
+| Lang Nassi, Werner Khalil          | 00WernerLang    | C              | L              | L                 |
+| Jorge Franciscoz Taipe Sangama     | CamotinFurious  | L              | C              | C                 |
+| Ortega Muñoz, Saúl                 | Ss1lent10       | C              | L              | C                 |
+| Armestar Heredia, Matias Gabriel   | MatiasArmestar  | L              | C              | C                 |
+| Duran Santander, Emilia            | emiliadurans    | C              | L              | C                 |
+
+#### 5.2.2.3. Sprint Backlog 2.
+
+| User Story |           Work-Item / Task           |  Id | Title                             | Description                                                       | Estimation (Hours) | Assigned To | Status |
+| :--------: | :----------------------------------: | :-: | :-------------------------------- | :---------------------------------------------------------------- | :----------------: | :---------: | :----: |
+|  **US08**  |          Registro de usuario         | T01 | Diseño del formulario de registro | Crear interfaz con campos de nombre, correo y contraseña.         |          6         |             |  To do |
+|            |                                      | T02 | Validaciones y mensajes           | Implementar validaciones de campos y mensajes de error/exito.     |          4         |             |  To do |
+|            |                                      | T03 | Pruebas de registro               | Verificar flujo de registro exitoso y fallido (correo repetido).  |          4         |             |  To do |
+|  **US09**  |           Inicio de sesión           | T04 | Diseño del formulario de login    | Crear interfaz con campos de correo y contraseña.                 |          4         |             |  To do |
+|            |                                      | T05 | Manejo de sesión                  | Guardar sesión (token) y redirigir al panel principal.            |          5         |             |  To do |
+|            |                                      | T06 | Pruebas de login                  | Validar mensajes de error y éxito.                                |          3         |             |  To do |
+|  **US10**  |        Historial de servicios        | T07 | Diseño de tabla de historial      | Mostrar lista de servicios con fecha, técnico, costo y estado.    |          6         |             |  To do |
+|            |                                      | T08 | Filtros de historial              | Agregar búsqueda y filtrado por fecha o estado.                   |          5         |             |  To do |
+|            |                                      | T09 | Pruebas del historial             | Validar visualización y actualización de datos.                   |          4         |             |  To do |
+|  **US11**  |           Agenda / Reservas          | T10 | Diseño de calendario              | Implementar vista de calendario con reservas confirmadas.         |          6         |             |  To do |
+|            |                                      | T11 | Colores y estados visuales        | Mostrar servicios por estado (confirmado, pendiente, etc.).       |          4         |             |  To do |
+|            |                                      | T12 | Pruebas de agenda                 | Validar visualización correcta de citas.                          |          3         |             |  To do |
+|  **US12**  |         Panel de estadísticas        | T13 | Diseño del panel de métricas      | Crear gráficos (ingresos, calificaciones, servicios completados). |          8         |             |  To do |
+|            |                                      | T14 | Integración con datos             | Conectar componentes de gráficos a API existente.                 |          5         |             |  To do |
+|            |                                      | T15 | Pruebas de estadísticas           | Validar precisión de los datos mostrados.                         |          4         |             |  To do |
+|  **US13**  | Verificación de identidad de técnico | T16 | Formulario de verificación        | Interfaz para subir documentos (DNI, certificaciones, fotos).     |          6         |             |  To do |
+|            |                                      | T17 | Estado de verificación            | Mostrar estado: pendiente, aprobado, rechazado.                   |          4         |             |  To do |
+|            |                                      | T18 | Pruebas de verificación           | Validar flujo de subida y estado visual.                          |          4         |             |  To do |
+|  **US14**  |     Filtrado por tipo de servicio    | T19 | Diseño de filtros por categoría   | Mostrar lista de categorías con checkboxes o dropdown.            |          4         |             |  To do |
+|            |                                      | T20 | Actualización dinámica            | Actualizar resultados según categoría seleccionada.               |          5         |             |  To do |
+|            |                                      | T21 | Pruebas de filtrado               | Verificar respuesta y visualización correcta.                     |          3         |             |  To do |
+|  **US15**  |         Filtrado por técnico         | T22 | Barra de búsqueda por nombre      | Campo de texto para buscar técnicos por nombre.                   |          4         |             |  To do |
+|            |                                      | T23 | Resultados de búsqueda            | Mostrar lista filtrada de técnicos coincidentes.                  |          4         |             |  To do |
+|            |                                      | T24 | Pruebas de búsqueda               | Verificar coincidencias y mensajes de “no encontrado”.            |          3         |             |  To do |
+|  **US16**  |          Filtros combinados          | T25 | Diseño de búsqueda avanzada       | Interfaz que combine categoría + ubicación.                       |          6         |             |  To do |
+|            |                                      | T26 | Aplicación de múltiples filtros   | Mostrar solo técnicos que cumplen todos los criterios.            |          5         |             |  To do |
+|            |                                      | T27 | Pruebas de búsqueda avanzada      | Validar combinaciones de filtros.                                 |          4         |             |  To do |
+|  **US17**  |           Visualizar perfil          | T28 | Diseño de perfil de técnico       | Mostrar foto, experiencia, certificaciones, servicios.            |          6         |             |  To do |
+|            |                                      | T29 | Integración con reseñas y datos   | Mostrar reseñas y calificaciones del técnico.                     |          5         |             |  To do |
+|            |                                      | T30 | Pruebas del perfil                | Validar carga completa de información.                            |          3         |             |  To do |
+|  **US18**  |          Reseñas de clientes         | T31 | Diseño de formulario de reseña    | Interfaz con campo de texto y estrellas.                          |          4         |             |  To do |
+|            |                                      | T32 | Publicación de reseña             | Actualizar lista de reseñas sin recargar página.                  |          4         |             |  To do |
+|            |                                      | T33 | Pruebas de reseñas                | Validar flujo de envío y actualización.                           |          3         |             |  To do |
+|  **US19**  |            Métodos de pago           | T34 | Pantalla de selección de pago     | Interfaz para elegir entre tarjeta o billetera digital.           |          5         |             |  To do |
+|            |                                      | T35 | Validaciones de formulario        | Validar campos de tarjeta, monto y tipo de pago.                  |          4         |             |  To do |
+|            |                                      | T36 | Pruebas de pago                   | Simular selección de método y confirmación.                       |          4         |             |  To do |
+|  **US20**  |         Confirmación de pago         | T37 | Pantalla de confirmación          | Mostrar mensaje de éxito o error según estado del pago.           |          4         |             |  To do |
+|            |                                      | T38 | Envío de comprobante              | Interfaz para mostrar comprobante o permitir descarga.            |          4         |             |  To do |
+|            |                                      | T39 | Pruebas de confirmación           | Validar mensajes y flujo completo de pago.                        |          3         |             |  To do |
+
+#### 5.2.2.4. Development Evidence for Sprint Review.
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+
 ## 5.3. Validation Interviews.
 
 ### 5.3.1. Diseño de Entrevistas.
