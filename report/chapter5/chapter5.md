@@ -413,6 +413,19 @@ A continuación, se muestran algunos insights del repositorio de GitHub:
 
 #### 5.2.2.4. Development Evidence for Sprint Review.
 
+En esta sección se demuestran los commits relacionados con los principales avances en la implementación.
+Estos commits provienen del repositorio del frontend de la organización de GitHub.
+
+Enlace al repositorio del frontend: https://github.com/WASwarm1/chambapro-frontend
+
+| Repository                   | Branch | Commit Id | Commit Message                                                                        | Commit Message Body | Commited on (Date) |
+|------------------------------|--------|-----------|---------------------------------------------------------------------------------------|---------------------|--------------------|
+| WASwarm1/chambapro-frontend  | work   | 26d06a0   | feat(work): add Reserva Card and List, example db.json, i18n, dependencies and styles |                     | 02/10/2025         |
+| WASwarm1/chambapro-frontend  | user   | 0a793c6   | feat(work): add Tecnico Card and List, example db.json, i18n, dependencies and styles |                     | 05/10/2025         |
+| WASwarm1/chambapro-frontend  | user   | ea55a62   | feat:Add TechnicianProfilePage                                                        |                     | 06/10/2025         |
+| WASwarm1/chambapro-frontend  | user   | 0938ba9   | feat: add HistoryServicesPage entity, assembler, Card, api, list                      |                     | 06/10/2025         |
+
+
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
