@@ -428,6 +428,12 @@ Enlace al repositorio del frontend: https://github.com/WASwarm1/chambapro-fronte
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
+En este sprint se implementaron las siguientes funcionalidades en el frontend de ChambaPro:
+![TechSearchFront.png](../../assets/chapter5/TechSearchFront.png)
+![TechProfileFront.png](../../assets/chapter5/TechProfileFront.png)
+![HistoryServiceFront.png](../../assets/chapter5/HistoryServiceFront.png)
+![AgendaFront.png](../../assets/chapter5/AgendaFront.png)
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
