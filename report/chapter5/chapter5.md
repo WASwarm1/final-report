@@ -436,9 +436,42 @@ En este sprint se implementaron las siguientes funcionalidades en el frontend de
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
+Durante el desarrollo del frontend de ChambaPro, se utilizó un JSON Server como una API falsa con el
+cual se simularon las interacciones con un backend real. Este enfoque permitió desarrollar y probar las funcionalidades 
+del frontend de manera eficiente sin depender de un backend completamente implementado. Después de finalizar el desarrollo del frontend, 
+se utilizó un mockup api deploy para simular las respuestas del backend y asegurar que el frontend funcionara correctamente.
+
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
+**Frontend Web Application:**
+
+El frontend de ChambaPro fue desplegado utilizando **Vercel**, una plataforma de despliegue optimizada para aplicaciones frontend.
+
+**Pasos para el despliegue:**
+1. **Creación del repositorio**: Se creó un repositorio en la organización de GitHub llamado `chambapro-frontend`.
+2. **Desarrollo del frontend**: El código fuente del frontend se desarrolló y organizó en el repositorio.
+3. **Conexión con Vercel**: Se conectó el repositorio de GitHub con Vercel para habilitar despliegues automáticos.
+4. **Configuración de despliegue**: Se configuró Vercel para desplegar automáticamente el frontend cada vez que se realizara un push a la rama `main`.
+5. **Verificación del despliegue**: Se verificó que la aplicación estuviera accesible públicamente y funcionara correctamente en diferentes dispositivos y navegadores.
+
+**Repositorio:** https://github.com/WASwarm1/chambapro-frontend
+**URL desplegada:**
+- Cliente: https://chambapro-frontend-iota.vercel.app/client/techsearch
+- Técnico: https://chambapro-frontend-iota.vercel.app/tech/agenda
+
+![DeployFront.png](../../assets/chapter5/DeployFront.png)
+
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+En esta sección se presentan las evidencias de colaboración del equipo durante el sprint 2 para el desarrollo del frontend de ChambaPro.
+Cada miembro del equipo tuvo roles específicos, pero todos colaboraron en la planificación, desarrollo y revisión del trabajo.
+A continuación, se muestran algunos insights del repositorio de GitHub:
+* **Werner Lang:** Implementó la página de agenda y routers, deploy frontend y fake api.
+* **Saúl Ortega:** Se encargó de la página de historial de servicios.
+* **Matias Armestar:** Se encargó de la página de búsqueda de técnicos.
+* **Jorge Taipe:** Se encargó de la página de perfil de técnico.
+
+![Team_Collaboration_Sprint2.png](../../assets/chapter5/Team_Collaboration_Sprint2.png)
 
 
 ## 5.3. Validation Interviews.
