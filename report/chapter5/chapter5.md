@@ -352,11 +352,14 @@ A continuación, se muestran algunos insights del repositorio de GitHub:
 </tr>
 <tr>
     <td colspan="5">Sprint  2 Review Summary</td>
-    <td colspan="8">-</td>
+    <td colspan="8">En este segundo sprint se definieron las responsabilidades de cada integrante para el desarrollo del frontend de ChambaPro,
+además de plantear los requerimientos para el desarrollo de las funcionalidades principales de la aplicación web.</td>
 </tr>
 <tr>
     <td colspan="5">Sprint 2 Retrospective Summary</td>
-    <td colspan="8">-</td>
+    <td colspan="8">En esta sección todos los integrantes mencionaron tener aciertos en partes del codigo y en otras 
+partes poder mejorar sus habilidades realizando el frontend de ChambaPro. 
+</td>
 </tr>
 <tr>
     <td colspan="13">Sprint Goal & User Stories</td>
@@ -364,7 +367,9 @@ A continuación, se muestran algunos insights del repositorio de GitHub:
 <tr>
     <td colspan="5">Sprint 2 Goal</td>
     <td colspan="8">
--</td>
+Desarrollar las funcionalidades principales del frontend de ChambaPro, incluyendo búsqueda y filtrado de técnicos, visualización de perfiles,
+historial de servicios, agenda de reservas y sistema de reseñas. 
+</td>
 </tr>
 </table>
 
